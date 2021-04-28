@@ -4,8 +4,6 @@ This is a tensorflow implementation of the paper: [StarGAN-VC: Non-parallel many
 
 
 
-**The converted voice examples are in *converted* directory**
-
 ## Dependencies
 
 - Python 3.6 (or higher)
@@ -105,7 +103,7 @@ The network structure shown as follows:
 
 
 
-**Note: Our implementation follows the original paper’s network structure**, while [pytorch StarGAN-VC code](https://github.com/liusongxiang/StarGAN-Voice-Conversion)‘network is different from the paper as it’s classifier shares the Discriminator’s weights. Both ways generate good converted speeches.
+**Note: This implementation follows the original paper’s network structure**, while [pytorch StarGAN-VC code](https://github.com/liusongxiang/StarGAN-Voice-Conversion)‘network is different from the paper as it’s classifier shares the Discriminator’s weights. Both ways generate good converted speeches.
 
 ## Reference
 
@@ -122,7 +120,3 @@ The network structure shown as follows:
 [CycleGAN paper](https://arxiv.org/abs/1703.10593v4)
 
 ---
-
-If you feel this repo is good, please  **star**  ! 
-
-Your encouragement is my biggest motivation!
