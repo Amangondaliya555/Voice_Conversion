@@ -1,0 +1,994 @@
+Iter:0	 Generator Loss:26.5434 Discrimator Loss:0.5348 	GA2B:1.0492 GB2A:0.9978 G_id:1.6327 G_cyc:1.6333 D_A:0.5241 D_B:0.5456
+Iter:50	 Generator Loss:27.0033 Discrimator Loss:0.0920 	GA2B:1.0455 GB2A:1.0529 G_id:1.6840 G_cyc:1.6485 D_A:0.1067 D_B:0.0772
+Iter:100	 Generator Loss:28.6907 Discrimator Loss:0.0876 	GA2B:1.1670 GB2A:1.7131 G_id:1.7825 G_cyc:1.6898 D_A:0.0977 D_B:0.0775
+Iter:150	 Generator Loss:27.0488 Discrimator Loss:0.0729 	GA2B:1.0948 GB2A:1.1569 G_id:1.6985 G_cyc:1.6304 D_A:0.0676 D_B:0.0781
+Epoch: 0 Generator Loss: 27.6966 Discriminator Loss: 0.08282571285963058, Time: 74.61
+
+
+Iter:200	 Generator Loss:30.7840 Discrimator Loss:0.0944 	GA2B:1.3242 GB2A:1.7170 G_id:1.9695 G_cyc:1.7895 D_A:0.1371 D_B:0.0518
+Iter:250	 Generator Loss:28.5754 Discrimator Loss:0.0848 	GA2B:1.0722 GB2A:1.0214 G_id:1.9796 G_cyc:1.6584 D_A:0.0704 D_B:0.0992
+Iter:300	 Generator Loss:30.6876 Discrimator Loss:0.0734 	GA2B:0.9414 GB2A:2.0946 G_id:1.8793 G_cyc:1.8255 D_A:0.0863 D_B:0.0604
+Epoch: 1 Generator Loss: 24.6251 Discriminator Loss: 0.06042266637086868, Time: 72.18
+
+
+Iter:350	 Generator Loss:28.1078 Discrimator Loss:0.1057 	GA2B:1.6732 GB2A:0.4978 G_id:1.7270 G_cyc:1.7302 D_A:0.1505 D_B:0.0609
+Iter:400	 Generator Loss:28.5429 Discrimator Loss:0.0678 	GA2B:1.0847 GB2A:0.9870 G_id:1.7855 G_cyc:1.7544 D_A:0.1159 D_B:0.0197
+Iter:450	 Generator Loss:25.4171 Discrimator Loss:0.0359 	GA2B:1.1357 GB2A:0.8772 G_id:1.5750 G_cyc:1.5529 D_A:0.0463 D_B:0.0254
+Epoch: 2 Generator Loss: 27.0272 Discriminator Loss: 0.09796236455440521, Time: 72.46
+
+
+Iter:500	 Generator Loss:27.3252 Discrimator Loss:0.0636 	GA2B:1.0116 GB2A:1.2008 G_id:1.7556 G_cyc:1.6335 D_A:0.1096 D_B:0.0177
+Iter:550	 Generator Loss:25.9942 Discrimator Loss:0.1022 	GA2B:0.9330 GB2A:0.8466 G_id:1.6123 G_cyc:1.6153 D_A:0.1431 D_B:0.0614
+Iter:600	 Generator Loss:28.1811 Discrimator Loss:0.0331 	GA2B:0.9611 GB2A:0.8069 G_id:1.7635 G_cyc:1.7596 D_A:0.0472 D_B:0.0190
+Epoch: 3 Generator Loss: 27.3406 Discriminator Loss: 0.08912665396928787, Time: 72.26
+
+
+Iter:650	 Generator Loss:29.6884 Discrimator Loss:0.0480 	GA2B:0.9793 GB2A:0.9501 G_id:1.8691 G_cyc:1.8414 D_A:0.0896 D_B:0.0065
+Iter:700	 Generator Loss:25.9405 Discrimator Loss:0.0158 	GA2B:1.0125 GB2A:0.9534 G_id:1.5966 G_cyc:1.5992 D_A:0.0250 D_B:0.0065
+Iter:750	 Generator Loss:24.8860 Discrimator Loss:0.0449 	GA2B:1.0416 GB2A:1.1080 G_id:1.5183 G_cyc:1.5145 D_A:0.0720 D_B:0.0178
+Iter:800	 Generator Loss:27.9656 Discrimator Loss:0.0962 	GA2B:1.4063 GB2A:0.9211 G_id:1.7965 G_cyc:1.6656 D_A:0.1551 D_B:0.0374
+Epoch: 4 Generator Loss: 26.7588 Discriminator Loss: 0.13082832098007202, Time: 72.08
+
+
+Iter:850	 Generator Loss:25.6942 Discrimator Loss:0.0238 	GA2B:1.0055 GB2A:0.9334 G_id:1.5812 G_cyc:1.5849 D_A:0.0407 D_B:0.0070
+Iter:900	 Generator Loss:25.9968 Discrimator Loss:0.1032 	GA2B:1.0529 GB2A:0.4491 G_id:1.7506 G_cyc:1.5742 D_A:0.1998 D_B:0.0065
+Iter:950	 Generator Loss:23.7050 Discrimator Loss:0.0565 	GA2B:0.9973 GB2A:0.8369 G_id:1.4609 G_cyc:1.4566 D_A:0.1087 D_B:0.0042
+Epoch: 5 Generator Loss: 25.8159 Discriminator Loss: 0.09215755760669708, Time: 72.26
+
+
+Iter:1000	 Generator Loss:26.3885 Discrimator Loss:0.0504 	GA2B:1.0094 GB2A:0.9735 G_id:1.6230 G_cyc:1.6291 D_A:0.0966 D_B:0.0042
+Iter:1050	 Generator Loss:25.7641 Discrimator Loss:0.0680 	GA2B:0.9090 GB2A:0.5052 G_id:1.6689 G_cyc:1.6005 D_A:0.1305 D_B:0.0056
+Iter:1100	 Generator Loss:22.8702 Discrimator Loss:0.0588 	GA2B:1.0258 GB2A:0.7669 G_id:1.4006 G_cyc:1.4075 D_A:0.1119 D_B:0.0056
+Epoch: 6 Generator Loss: 26.3866 Discriminator Loss: 0.07593115419149399, Time: 72.26
+
+
+Iter:1150	 Generator Loss:25.1209 Discrimator Loss:0.0860 	GA2B:1.0013 GB2A:0.6659 G_id:1.5828 G_cyc:1.5540 D_A:0.1696 D_B:0.0024
+Iter:1200	 Generator Loss:27.4614 Discrimator Loss:0.0701 	GA2B:0.9543 GB2A:1.3133 G_id:1.7252 G_cyc:1.6568 D_A:0.1348 D_B:0.0054
+Iter:1250	 Generator Loss:24.3269 Discrimator Loss:0.1209 	GA2B:0.9648 GB2A:0.4847 G_id:1.5402 G_cyc:1.5177 D_A:0.2387 D_B:0.0031
+Epoch: 7 Generator Loss: 26.3249 Discriminator Loss: 0.0966150090098381, Time: 72.12
+
+
+Iter:1300	 Generator Loss:25.6535 Discrimator Loss:0.1088 	GA2B:0.9461 GB2A:0.4001 G_id:1.6162 G_cyc:1.6226 D_A:0.2125 D_B:0.0051
+Iter:1350	 Generator Loss:26.2117 Discrimator Loss:0.0573 	GA2B:1.0824 GB2A:0.7363 G_id:1.6286 G_cyc:1.6250 D_A:0.1103 D_B:0.0044
+Iter:1400	 Generator Loss:25.3022 Discrimator Loss:0.0710 	GA2B:1.0683 GB2A:0.5029 G_id:1.5789 G_cyc:1.5837 D_A:0.1378 D_B:0.0041
+Iter:1450	 Generator Loss:26.3335 Discrimator Loss:0.1385 	GA2B:0.9181 GB2A:0.3873 G_id:1.6734 G_cyc:1.6661 D_A:0.2696 D_B:0.0074
+Epoch: 8 Generator Loss: 24.9876 Discriminator Loss: 0.1031055748462677, Time: 72.12
+
+
+Iter:1500	 Generator Loss:25.7417 Discrimator Loss:0.1308 	GA2B:1.0657 GB2A:0.8924 G_id:1.5849 G_cyc:1.5859 D_A:0.2587 D_B:0.0030
+Iter:1550	 Generator Loss:26.4143 Discrimator Loss:0.1106 	GA2B:1.0241 GB2A:0.5478 G_id:1.7009 G_cyc:1.6338 D_A:0.2167 D_B:0.0045
+Iter:1600	 Generator Loss:26.1215 Discrimator Loss:0.0947 	GA2B:1.0033 GB2A:0.6317 G_id:1.6289 G_cyc:1.6342 D_A:0.1856 D_B:0.0038
+Epoch: 9 Generator Loss: 25.3321 Discriminator Loss: 0.09238915145397186, Time: 72.07
+
+
+Iter:1650	 Generator Loss:24.6724 Discrimator Loss:0.0739 	GA2B:0.9985 GB2A:0.9383 G_id:1.6205 G_cyc:1.4633 D_A:0.1444 D_B:0.0034
+Iter:1700	 Generator Loss:27.7160 Discrimator Loss:0.1076 	GA2B:1.0011 GB2A:0.6295 G_id:1.7438 G_cyc:1.7366 D_A:0.2135 D_B:0.0018
+Iter:1750	 Generator Loss:25.4295 Discrimator Loss:0.0553 	GA2B:0.9749 GB2A:0.7182 G_id:1.5820 G_cyc:1.5827 D_A:0.1072 D_B:0.0034
+Epoch: 10 Generator Loss: 25.3672 Discriminator Loss: 0.09530311077833176, Time: 72.16
+
+
+Iter:1800	 Generator Loss:25.6986 Discrimator Loss:0.0580 	GA2B:1.0205 GB2A:0.9235 G_id:1.5813 G_cyc:1.5848 D_A:0.1138 D_B:0.0022
+Iter:1850	 Generator Loss:26.7776 Discrimator Loss:0.0849 	GA2B:0.9970 GB2A:0.7416 G_id:1.6696 G_cyc:1.6691 D_A:0.1684 D_B:0.0015
+Iter:1900	 Generator Loss:27.6799 Discrimator Loss:0.0790 	GA2B:1.0070 GB2A:0.6229 G_id:1.7379 G_cyc:1.7360 D_A:0.1521 D_B:0.0060
+Epoch: 11 Generator Loss: 27.1994 Discriminator Loss: 0.0999004915356636, Time: 72.12
+
+
+Iter:1950	 Generator Loss:25.6487 Discrimator Loss:0.1044 	GA2B:0.9946 GB2A:0.5480 G_id:1.6086 G_cyc:1.6063 D_A:0.2072 D_B:0.0015
+Iter:2000	 Generator Loss:24.7566 Discrimator Loss:0.0830 	GA2B:0.9961 GB2A:0.6461 G_id:1.5424 G_cyc:1.5402 D_A:0.1633 D_B:0.0027
+Iter:2050	 Generator Loss:25.3525 Discrimator Loss:0.1200 	GA2B:1.0326 GB2A:0.5721 G_id:1.5814 G_cyc:1.5841 D_A:0.2383 D_B:0.0016
+Iter:2100	 Generator Loss:26.5165 Discrimator Loss:0.0946 	GA2B:0.9808 GB2A:0.6098 G_id:1.6635 G_cyc:1.6609 D_A:0.1874 D_B:0.0018
+Epoch: 12 Generator Loss: 27.7938 Discriminator Loss: 0.05600845441222191, Time: 72.17
+
+
+Iter:2150	 Generator Loss:25.5150 Discrimator Loss:0.0989 	GA2B:1.0157 GB2A:0.6218 G_id:1.5907 G_cyc:1.5924 D_A:0.1956 D_B:0.0021
+Iter:2200	 Generator Loss:24.8611 Discrimator Loss:0.0871 	GA2B:1.0064 GB2A:0.6393 G_id:1.5448 G_cyc:1.5491 D_A:0.1725 D_B:0.0018
+Iter:2250	 Generator Loss:26.6844 Discrimator Loss:0.1039 	GA2B:1.0066 GB2A:0.6422 G_id:1.6623 G_cyc:1.6724 D_A:0.2067 D_B:0.0011
+Epoch: 13 Generator Loss: 24.3560 Discriminator Loss: 0.13992702960968018, Time: 72.18
+
+
+Iter:2300	 Generator Loss:21.7653 Discrimator Loss:0.0406 	GA2B:1.0079 GB2A:1.0351 G_id:1.3216 G_cyc:1.3114 D_A:0.0788 D_B:0.0024
+Iter:2350	 Generator Loss:29.0246 Discrimator Loss:0.0094 	GA2B:1.0051 GB2A:1.1130 G_id:1.8085 G_cyc:1.7864 D_A:0.0167 D_B:0.0022
+Iter:2400	 Generator Loss:23.7985 Discrimator Loss:0.0315 	GA2B:1.0061 GB2A:1.3216 G_id:1.4328 G_cyc:1.4307 D_A:0.0610 D_B:0.0019
+Epoch: 14 Generator Loss: 26.1556 Discriminator Loss: 0.0769648551940918, Time: 72.13
+
+
+Iter:2450	 Generator Loss:26.0801 Discrimator Loss:0.0623 	GA2B:0.9537 GB2A:0.5723 G_id:1.6341 G_cyc:1.6384 D_A:0.1218 D_B:0.0028
+Iter:2500	 Generator Loss:26.1278 Discrimator Loss:0.1424 	GA2B:0.9713 GB2A:0.5580 G_id:1.6438 G_cyc:1.6380 D_A:0.2835 D_B:0.0013
+Iter:2550	 Generator Loss:25.6350 Discrimator Loss:0.1814 	GA2B:0.9800 GB2A:0.4269 G_id:1.6110 G_cyc:1.6173 D_A:0.3611 D_B:0.0018
+Epoch: 15 Generator Loss: 25.8265 Discriminator Loss: 0.14775626361370087, Time: 72.44
+
+
+Iter:2600	 Generator Loss:29.2422 Discrimator Loss:0.0914 	GA2B:1.0184 GB2A:0.5336 G_id:1.8470 G_cyc:1.8455 D_A:0.1808 D_B:0.0020
+Iter:2650	 Generator Loss:26.7282 Discrimator Loss:0.0540 	GA2B:1.0362 GB2A:1.0577 G_id:1.6304 G_cyc:1.6483 D_A:0.1062 D_B:0.0019
+Iter:2700	 Generator Loss:26.0259 Discrimator Loss:0.0704 	GA2B:0.9972 GB2A:0.6063 G_id:1.6454 G_cyc:1.6195 D_A:0.1365 D_B:0.0044
+Iter:2750	 Generator Loss:22.5536 Discrimator Loss:0.0632 	GA2B:0.9875 GB2A:0.6735 G_id:1.3893 G_cyc:1.3946 D_A:0.1217 D_B:0.0048
+Epoch: 16 Generator Loss: 26.1272 Discriminator Loss: 0.15529777109622955, Time: 72.14
+
+
+Iter:2800	 Generator Loss:26.4753 Discrimator Loss:0.1058 	GA2B:1.0195 GB2A:0.6298 G_id:1.6556 G_cyc:1.6548 D_A:0.2085 D_B:0.0031
+Iter:2850	 Generator Loss:27.5297 Discrimator Loss:0.0862 	GA2B:1.0216 GB2A:0.4693 G_id:1.6643 G_cyc:1.7717 D_A:0.0906 D_B:0.0817
+Iter:2900	 Generator Loss:28.6037 Discrimator Loss:0.0146 	GA2B:0.9754 GB2A:1.1836 G_id:1.7447 G_cyc:1.7721 D_A:0.0229 D_B:0.0063
+Epoch: 17 Generator Loss: 27.0460 Discriminator Loss: 0.07099084556102753, Time: 72.13
+
+
+Iter:2950	 Generator Loss:24.4080 Discrimator Loss:0.0746 	GA2B:0.7895 GB2A:0.4330 G_id:1.5504 G_cyc:1.5434 D_A:0.1382 D_B:0.0109
+Iter:3000	 Generator Loss:25.9823 Discrimator Loss:0.0278 	GA2B:1.0189 GB2A:1.0762 G_id:1.6037 G_cyc:1.5868 D_A:0.0530 D_B:0.0026
+Iter:3050	 Generator Loss:26.1470 Discrimator Loss:0.0632 	GA2B:1.0279 GB2A:0.7652 G_id:1.6301 G_cyc:1.6203 D_A:0.1241 D_B:0.0024
+Epoch: 18 Generator Loss: 26.4540 Discriminator Loss: 0.11294502019882202, Time: 72.10
+
+
+Iter:3100	 Generator Loss:24.3402 Discrimator Loss:0.1274 	GA2B:1.0158 GB2A:0.4994 G_id:1.5196 G_cyc:1.5227 D_A:0.2519 D_B:0.0029
+Iter:3150	 Generator Loss:27.2932 Discrimator Loss:0.0864 	GA2B:1.0266 GB2A:0.5931 G_id:1.7199 G_cyc:1.7074 D_A:0.1712 D_B:0.0015
+Iter:3200	 Generator Loss:25.8010 Discrimator Loss:0.1473 	GA2B:1.0518 GB2A:0.5311 G_id:1.6157 G_cyc:1.6139 D_A:0.2929 D_B:0.0017
+Epoch: 19 Generator Loss: 25.0789 Discriminator Loss: 0.08398496359586716, Time: 72.16
+
+
+Iter:3250	 Generator Loss:22.0341 Discrimator Loss:0.0204 	GA2B:0.9861 GB2A:0.9501 G_id:1.3593 G_cyc:1.3301 D_A:0.0379 D_B:0.0030
+Iter:3300	 Generator Loss:26.5558 Discrimator Loss:0.0784 	GA2B:1.0061 GB2A:0.9388 G_id:1.6458 G_cyc:1.6382 D_A:0.1546 D_B:0.0022
+Iter:3350	 Generator Loss:24.2465 Discrimator Loss:0.0201 	GA2B:0.9915 GB2A:0.8750 G_id:1.4866 G_cyc:1.4947 D_A:0.0389 D_B:0.0013
+Iter:3400	 Generator Loss:27.4514 Discrimator Loss:0.0905 	GA2B:1.0273 GB2A:0.5004 G_id:1.7259 G_cyc:1.7294 D_A:0.1795 D_B:0.0016
+Epoch: 20 Generator Loss: 25.6612 Discriminator Loss: 0.10356615483760834, Time: 72.15
+
+
+Iter:3450	 Generator Loss:25.5581 Discrimator Loss:0.0914 	GA2B:1.0156 GB2A:0.5447 G_id:1.6053 G_cyc:1.5971 D_A:0.1806 D_B:0.0021
+Iter:3500	 Generator Loss:26.7811 Discrimator Loss:0.1099 	GA2B:1.0060 GB2A:0.5514 G_id:1.6844 G_cyc:1.6802 D_A:0.2188 D_B:0.0011
+Iter:3550	 Generator Loss:26.1184 Discrimator Loss:0.1320 	GA2B:1.0421 GB2A:0.6733 G_id:1.6301 G_cyc:1.6253 D_A:0.2623 D_B:0.0017
+Epoch: 21 Generator Loss: 25.7059 Discriminator Loss: 0.1119556799530983, Time: 72.15
+
+
+Iter:3600	 Generator Loss:24.4492 Discrimator Loss:0.1120 	GA2B:0.9734 GB2A:0.5179 G_id:1.5275 G_cyc:1.5321 D_A:0.2230 D_B:0.0010
+Iter:3650	 Generator Loss:25.7918 Discrimator Loss:0.0998 	GA2B:1.0384 GB2A:0.4945 G_id:1.6177 G_cyc:1.6170 D_A:0.1975 D_B:0.0021
+Iter:3700	 Generator Loss:26.6936 Discrimator Loss:0.0697 	GA2B:1.0114 GB2A:0.5217 G_id:1.6825 G_cyc:1.6748 D_A:0.1379 D_B:0.0015
+Epoch: 22 Generator Loss: 26.2559 Discriminator Loss: 0.1285465806722641, Time: 72.19
+
+
+Iter:3750	 Generator Loss:26.6632 Discrimator Loss:0.0695 	GA2B:1.0263 GB2A:1.0020 G_id:1.6462 G_cyc:1.6404 D_A:0.1380 D_B:0.0011
+Iter:3800	 Generator Loss:26.6891 Discrimator Loss:0.1357 	GA2B:1.0049 GB2A:0.5635 G_id:1.6767 G_cyc:1.6737 D_A:0.2700 D_B:0.0014
+Iter:3850	 Generator Loss:27.5075 Discrimator Loss:0.0798 	GA2B:0.9548 GB2A:0.4636 G_id:1.7444 G_cyc:1.7367 D_A:0.1569 D_B:0.0028
+Epoch: 23 Generator Loss: 26.0067 Discriminator Loss: 0.0790533721446991, Time: 72.18
+
+
+Iter:3900	 Generator Loss:24.2494 Discrimator Loss:0.1105 	GA2B:1.0140 GB2A:0.4736 G_id:1.5216 G_cyc:1.5154 D_A:0.2186 D_B:0.0024
+Iter:3950	 Generator Loss:26.0805 Discrimator Loss:0.0682 	GA2B:1.0053 GB2A:0.5965 G_id:1.6260 G_cyc:1.6349 D_A:0.1352 D_B:0.0012
+Iter:4000	 Generator Loss:25.3718 Discrimator Loss:0.1069 	GA2B:0.9969 GB2A:0.5445 G_id:1.5940 G_cyc:1.5860 D_A:0.2123 D_B:0.0014
+Epoch: 24 Generator Loss: 25.3439 Discriminator Loss: 0.10321260988712311, Time: 72.20
+
+
+Iter:4050	 Generator Loss:27.0939 Discrimator Loss:0.1039 	GA2B:1.0175 GB2A:0.3584 G_id:1.7138 G_cyc:1.7149 D_A:0.2061 D_B:0.0017
+Iter:4100	 Generator Loss:26.7332 Discrimator Loss:0.0650 	GA2B:1.0137 GB2A:0.7230 G_id:1.6644 G_cyc:1.6675 D_A:0.1288 D_B:0.0012
+Iter:4150	 Generator Loss:26.7004 Discrimator Loss:0.1303 	GA2B:0.9946 GB2A:0.6070 G_id:1.6759 G_cyc:1.6719 D_A:0.2589 D_B:0.0017
+Iter:4200	 Generator Loss:26.3834 Discrimator Loss:0.0969 	GA2B:1.0101 GB2A:0.5877 G_id:1.6529 G_cyc:1.6521 D_A:0.1920 D_B:0.0017
+Epoch: 25 Generator Loss: 27.1211 Discriminator Loss: 0.10129079967737198, Time: 72.16
+
+
+Iter:4250	 Generator Loss:27.7622 Discrimator Loss:0.0814 	GA2B:0.9774 GB2A:0.6773 G_id:1.9832 G_cyc:1.6191 D_A:0.1619 D_B:0.0010
+Iter:4300	 Generator Loss:23.8471 Discrimator Loss:0.0523 	GA2B:0.9855 GB2A:0.4581 G_id:1.4917 G_cyc:1.4945 D_A:0.1038 D_B:0.0007
+Iter:4350	 Generator Loss:24.5617 Discrimator Loss:0.0737 	GA2B:1.0138 GB2A:0.4500 G_id:1.5380 G_cyc:1.5408 D_A:0.1466 D_B:0.0008
+Epoch: 26 Generator Loss: 24.5177 Discriminator Loss: 0.13838186860084534, Time: 72.15
+
+
+Iter:4400	 Generator Loss:25.4117 Discrimator Loss:0.0897 	GA2B:0.9700 GB2A:0.4950 G_id:1.6013 G_cyc:1.5940 D_A:0.1781 D_B:0.0012
+Iter:4450	 Generator Loss:23.1633 Discrimator Loss:0.1279 	GA2B:0.9848 GB2A:0.3812 G_id:1.4541 G_cyc:1.4527 D_A:0.2548 D_B:0.0011
+Iter:4500	 Generator Loss:23.8259 Discrimator Loss:0.0553 	GA2B:1.0093 GB2A:0.4956 G_id:1.4925 G_cyc:1.4858 D_A:0.1087 D_B:0.0019
+Epoch: 27 Generator Loss: 26.0683 Discriminator Loss: 0.1675548553466797, Time: 72.17
+
+
+Iter:4550	 Generator Loss:25.2140 Discrimator Loss:0.0417 	GA2B:0.9805 GB2A:1.0433 G_id:1.5463 G_cyc:1.5459 D_A:0.0821 D_B:0.0013
+Iter:4600	 Generator Loss:24.6581 Discrimator Loss:0.1192 	GA2B:1.0244 GB2A:0.4938 G_id:1.5426 G_cyc:1.5427 D_A:0.2369 D_B:0.0014
+Iter:4650	 Generator Loss:27.0007 Discrimator Loss:0.1435 	GA2B:0.9946 GB2A:0.3819 G_id:1.7099 G_cyc:1.7075 D_A:0.2861 D_B:0.0008
+Epoch: 28 Generator Loss: 24.1320 Discriminator Loss: 0.08557523041963577, Time: 72.19
+
+
+Iter:4700	 Generator Loss:28.6365 Discrimator Loss:0.0898 	GA2B:1.0242 GB2A:0.5869 G_id:2.0523 G_cyc:1.6764 D_A:0.1791 D_B:0.0006
+Iter:4750	 Generator Loss:29.2510 Discrimator Loss:0.0770 	GA2B:1.0315 GB2A:0.5119 G_id:1.8438 G_cyc:1.8488 D_A:0.1495 D_B:0.0045
+Iter:4800	 Generator Loss:26.4782 Discrimator Loss:0.0877 	GA2B:0.9916 GB2A:0.5244 G_id:1.6756 G_cyc:1.6584 D_A:0.1744 D_B:0.0010
+Iter:4850	 Generator Loss:26.1308 Discrimator Loss:0.0997 	GA2B:1.0085 GB2A:0.7057 G_id:1.6376 G_cyc:1.6229 D_A:0.1984 D_B:0.0009
+Epoch: 29 Generator Loss: 27.7323 Discriminator Loss: 0.07309898734092712, Time: 72.19
+
+
+Iter:4900	 Generator Loss:23.8950 Discrimator Loss:0.1045 	GA2B:1.0230 GB2A:0.5061 G_id:1.4947 G_cyc:1.4893 D_A:0.2065 D_B:0.0025
+Iter:4950	 Generator Loss:24.9961 Discrimator Loss:0.0914 	GA2B:0.9882 GB2A:0.5306 G_id:1.5662 G_cyc:1.5646 D_A:0.1808 D_B:0.0020
+Iter:5000	 Generator Loss:24.9216 Discrimator Loss:0.1046 	GA2B:0.9865 GB2A:0.5286 G_id:1.5606 G_cyc:1.5603 D_A:0.2086 D_B:0.0006
+Epoch: 30 Generator Loss: 27.5000 Discriminator Loss: 0.10265739262104034, Time: 72.12
+
+
+Iter:5050	 Generator Loss:26.4695 Discrimator Loss:0.1374 	GA2B:1.0033 GB2A:0.5318 G_id:1.6696 G_cyc:1.6586 D_A:0.2740 D_B:0.0008
+Iter:5100	 Generator Loss:23.7984 Discrimator Loss:0.0124 	GA2B:0.9635 GB2A:0.9100 G_id:1.4578 G_cyc:1.4636 D_A:0.0238 D_B:0.0011
+Iter:5150	 Generator Loss:26.3714 Discrimator Loss:0.0778 	GA2B:1.0060 GB2A:0.3792 G_id:1.6681 G_cyc:1.6646 D_A:0.1543 D_B:0.0013
+Epoch: 31 Generator Loss: 26.5600 Discriminator Loss: 0.10644640028476715, Time: 72.19
+
+
+Iter:5200	 Generator Loss:28.2356 Discrimator Loss:0.0216 	GA2B:1.0132 GB2A:1.1960 G_id:1.7283 G_cyc:1.7385 D_A:0.0419 D_B:0.0012
+Iter:5250	 Generator Loss:25.7514 Discrimator Loss:0.0668 	GA2B:1.0006 GB2A:1.1732 G_id:1.5666 G_cyc:1.5744 D_A:0.1279 D_B:0.0058
+Iter:5300	 Generator Loss:26.1479 Discrimator Loss:0.0751 	GA2B:0.9998 GB2A:0.4328 G_id:1.6362 G_cyc:1.6534 D_A:0.1483 D_B:0.0020
+Epoch: 32 Generator Loss: 26.0242 Discriminator Loss: 0.11882032454013824, Time: 72.28
+
+
+Iter:5350	 Generator Loss:27.1000 Discrimator Loss:0.1016 	GA2B:1.0291 GB2A:0.5254 G_id:1.7041 G_cyc:1.7025 D_A:0.2020 D_B:0.0013
+Iter:5400	 Generator Loss:28.2727 Discrimator Loss:0.0628 	GA2B:1.0019 GB2A:0.9940 G_id:1.7604 G_cyc:1.7475 D_A:0.1246 D_B:0.0009
+Iter:5450	 Generator Loss:24.5872 Discrimator Loss:0.1468 	GA2B:0.9851 GB2A:0.4988 G_id:1.5475 G_cyc:1.5366 D_A:0.2925 D_B:0.0010
+Iter:5500	 Generator Loss:26.7445 Discrimator Loss:0.0627 	GA2B:0.9853 GB2A:1.0022 G_id:1.6526 G_cyc:1.6494 D_A:0.1234 D_B:0.0021
+Epoch: 33 Generator Loss: 26.9718 Discriminator Loss: 0.09840291738510132, Time: 72.41
+
+
+Iter:5550	 Generator Loss:26.5320 Discrimator Loss:0.0473 	GA2B:0.9982 GB2A:0.5773 G_id:1.7785 G_cyc:1.6064 D_A:0.0932 D_B:0.0013
+Iter:5600	 Generator Loss:23.8107 Discrimator Loss:0.1051 	GA2B:0.9945 GB2A:0.4434 G_id:1.4877 G_cyc:1.4934 D_A:0.2084 D_B:0.0019
+Iter:5650	 Generator Loss:23.1881 Discrimator Loss:0.0801 	GA2B:0.9983 GB2A:0.6395 G_id:1.4360 G_cyc:1.4370 D_A:0.1596 D_B:0.0007
+Epoch: 34 Generator Loss: 27.4385 Discriminator Loss: 0.09124051034450531, Time: 72.12
+
+
+Iter:5700	 Generator Loss:25.8717 Discrimator Loss:0.1202 	GA2B:0.9929 GB2A:0.5743 G_id:1.6259 G_cyc:1.6175 D_A:0.2400 D_B:0.0004
+Iter:5750	 Generator Loss:24.2478 Discrimator Loss:0.1245 	GA2B:1.0021 GB2A:0.5459 G_id:1.5112 G_cyc:1.5144 D_A:0.2484 D_B:0.0007
+Iter:5800	 Generator Loss:26.4326 Discrimator Loss:0.1060 	GA2B:1.0042 GB2A:0.5192 G_id:1.6635 G_cyc:1.6592 D_A:0.2114 D_B:0.0007
+Epoch: 35 Generator Loss: 25.3202 Discriminator Loss: 0.1208614781498909, Time: 72.20
+
+
+Iter:5850	 Generator Loss:26.9529 Discrimator Loss:0.1109 	GA2B:0.9923 GB2A:1.0909 G_id:1.6520 G_cyc:1.6610 D_A:0.2215 D_B:0.0003
+Iter:5900	 Generator Loss:27.6416 Discrimator Loss:0.0802 	GA2B:1.0189 GB2A:0.4802 G_id:1.7451 G_cyc:1.7417 D_A:0.1595 D_B:0.0010
+Iter:5950	 Generator Loss:26.6735 Discrimator Loss:0.0450 	GA2B:0.9695 GB2A:0.5822 G_id:1.6718 G_cyc:1.6763 D_A:0.0889 D_B:0.0011
+Epoch: 36 Generator Loss: 24.9673 Discriminator Loss: 0.12224473804235458, Time: 72.57
+
+
+Iter:6000	 Generator Loss:23.2004 Discrimator Loss:0.0535 	GA2B:0.9656 GB2A:0.5609 G_id:1.4455 G_cyc:1.4446 D_A:0.1065 D_B:0.0006
+Iter:6050	 Generator Loss:25.6330 Discrimator Loss:0.1117 	GA2B:1.0138 GB2A:0.6164 G_id:1.6029 G_cyc:1.5988 D_A:0.2226 D_B:0.0009
+Iter:6100	 Generator Loss:25.1296 Discrimator Loss:0.0722 	GA2B:0.9936 GB2A:0.5317 G_id:1.5778 G_cyc:1.5715 D_A:0.1437 D_B:0.0008
+Iter:6150	 Generator Loss:25.2065 Discrimator Loss:0.0783 	GA2B:0.9903 GB2A:0.4794 G_id:1.5804 G_cyc:1.5835 D_A:0.1563 D_B:0.0004
+Epoch: 37 Generator Loss: 26.4132 Discriminator Loss: 0.10701726377010345, Time: 72.27
+
+
+Iter:6200	 Generator Loss:27.1558 Discrimator Loss:0.1018 	GA2B:1.0168 GB2A:0.4486 G_id:1.7089 G_cyc:1.7146 D_A:0.2030 D_B:0.0007
+Iter:6250	 Generator Loss:25.4267 Discrimator Loss:0.1697 	GA2B:1.0122 GB2A:0.4415 G_id:1.5957 G_cyc:1.5995 D_A:0.3384 D_B:0.0010
+Iter:6300	 Generator Loss:25.0306 Discrimator Loss:0.1152 	GA2B:1.0040 GB2A:0.5770 G_id:1.5567 G_cyc:1.5666 D_A:0.2299 D_B:0.0005
+Epoch: 38 Generator Loss: 27.6443 Discriminator Loss: 0.12084756046533585, Time: 72.21
+
+
+Iter:6350	 Generator Loss:26.3276 Discrimator Loss:0.1016 	GA2B:1.0291 GB2A:0.5931 G_id:1.6535 G_cyc:1.6438 D_A:0.2026 D_B:0.0005
+Iter:6400	 Generator Loss:24.0063 Discrimator Loss:0.0473 	GA2B:1.0101 GB2A:0.5652 G_id:1.4979 G_cyc:1.4942 D_A:0.0936 D_B:0.0010
+Iter:6450	 Generator Loss:26.1030 Discrimator Loss:0.0925 	GA2B:0.9774 GB2A:0.4415 G_id:1.6472 G_cyc:1.6448 D_A:0.1842 D_B:0.0007
+Epoch: 39 Generator Loss: 26.3397 Discriminator Loss: 0.11372555792331696, Time: 72.17
+
+
+Iter:6500	 Generator Loss:24.8870 Discrimator Loss:0.1055 	GA2B:1.0200 GB2A:0.5017 G_id:1.5571 G_cyc:1.5580 D_A:0.2097 D_B:0.0014
+Iter:6550	 Generator Loss:28.1406 Discrimator Loss:0.1143 	GA2B:0.9983 GB2A:0.4055 G_id:1.7789 G_cyc:1.7842 D_A:0.2282 D_B:0.0005
+Iter:6600	 Generator Loss:24.5559 Discrimator Loss:0.1453 	GA2B:1.0122 GB2A:0.4494 G_id:1.5405 G_cyc:1.5392 D_A:0.2871 D_B:0.0034
+Epoch: 40 Generator Loss: 24.1688 Discriminator Loss: 0.06091953441500664, Time: 72.14
+
+
+Iter:6650	 Generator Loss:26.9280 Discrimator Loss:0.0872 	GA2B:0.9864 GB2A:0.6302 G_id:1.6904 G_cyc:1.6860 D_A:0.1733 D_B:0.0012
+Iter:6700	 Generator Loss:25.6181 Discrimator Loss:0.1066 	GA2B:1.0024 GB2A:0.5419 G_id:1.6062 G_cyc:1.6043 D_A:0.2127 D_B:0.0005
+Iter:6750	 Generator Loss:24.3063 Discrimator Loss:0.1139 	GA2B:0.9618 GB2A:0.2875 G_id:1.5375 G_cyc:1.5370 D_A:0.2268 D_B:0.0010
+Iter:6800	 Generator Loss:24.7527 Discrimator Loss:0.0720 	GA2B:0.9993 GB2A:0.9029 G_id:1.5231 G_cyc:1.5235 D_A:0.1433 D_B:0.0008
+Epoch: 41 Generator Loss: 23.9090 Discriminator Loss: 0.08387912809848785, Time: 72.14
+
+
+Iter:6850	 Generator Loss:25.6287 Discrimator Loss:0.1605 	GA2B:1.0176 GB2A:0.5813 G_id:1.6081 G_cyc:1.5989 D_A:0.3195 D_B:0.0015
+Iter:6900	 Generator Loss:24.9326 Discrimator Loss:0.1021 	GA2B:0.9991 GB2A:0.5185 G_id:1.5680 G_cyc:1.5575 D_A:0.2030 D_B:0.0012
+Iter:6950	 Generator Loss:27.8309 Discrimator Loss:0.1176 	GA2B:1.0045 GB2A:0.3828 G_id:1.7718 G_cyc:1.7585 D_A:0.2344 D_B:0.0008
+Epoch: 42 Generator Loss: 24.1897 Discriminator Loss: 0.1045622006058693, Time: 72.23
+
+
+Iter:7000	 Generator Loss:25.9284 Discrimator Loss:0.1178 	GA2B:1.0064 GB2A:0.4066 G_id:1.6356 G_cyc:1.6337 D_A:0.2351 D_B:0.0006
+Iter:7050	 Generator Loss:26.2854 Discrimator Loss:0.0837 	GA2B:1.0093 GB2A:0.6222 G_id:1.6399 G_cyc:1.6455 D_A:0.1668 D_B:0.0007
+Iter:7100	 Generator Loss:29.3629 Discrimator Loss:0.1039 	GA2B:1.0004 GB2A:0.5433 G_id:1.8557 G_cyc:1.8541 D_A:0.2066 D_B:0.0013
+Epoch: 43 Generator Loss: 24.2756 Discriminator Loss: 0.11930479854345322, Time: 72.14
+
+
+Iter:7150	 Generator Loss:23.3707 Discrimator Loss:0.1224 	GA2B:1.0023 GB2A:0.5038 G_id:1.4581 G_cyc:1.4574 D_A:0.2440 D_B:0.0009
+Iter:7200	 Generator Loss:23.4700 Discrimator Loss:0.0831 	GA2B:0.9896 GB2A:0.5379 G_id:1.4635 G_cyc:1.4625 D_A:0.1659 D_B:0.0003
+Iter:7250	 Generator Loss:24.8242 Discrimator Loss:0.0627 	GA2B:0.9932 GB2A:0.4943 G_id:1.5581 G_cyc:1.5546 D_A:0.1250 D_B:0.0004
+Epoch: 44 Generator Loss: 26.1509 Discriminator Loss: 0.10198293626308441, Time: 72.18
+
+
+Iter:7300	 Generator Loss:24.9964 Discrimator Loss:0.1462 	GA2B:0.9960 GB2A:0.4818 G_id:1.5705 G_cyc:1.5666 D_A:0.2920 D_B:0.0004
+Iter:7350	 Generator Loss:24.7923 Discrimator Loss:0.0825 	GA2B:0.9822 GB2A:0.3975 G_id:1.5647 G_cyc:1.5589 D_A:0.1643 D_B:0.0007
+Iter:7400	 Generator Loss:26.9233 Discrimator Loss:0.1127 	GA2B:1.0056 GB2A:0.4344 G_id:1.6959 G_cyc:1.7004 D_A:0.2249 D_B:0.0005
+Iter:7450	 Generator Loss:26.3108 Discrimator Loss:0.0909 	GA2B:0.9350 GB2A:0.9606 G_id:1.6338 G_cyc:1.6246 D_A:0.1798 D_B:0.0020
+Epoch: 45 Generator Loss: 26.6434 Discriminator Loss: 0.06390266120433807, Time: 72.20
+
+
+Iter:7500	 Generator Loss:24.8680 Discrimator Loss:0.0204 	GA2B:0.9647 GB2A:0.8045 G_id:1.5476 G_cyc:1.5361 D_A:0.0396 D_B:0.0013
+Iter:7550	 Generator Loss:23.7189 Discrimator Loss:0.1119 	GA2B:1.0065 GB2A:0.5309 G_id:1.4716 G_cyc:1.4824 D_A:0.2229 D_B:0.0008
+Iter:7600	 Generator Loss:24.3012 Discrimator Loss:0.1504 	GA2B:1.0066 GB2A:0.4611 G_id:1.5292 G_cyc:1.5188 D_A:0.3001 D_B:0.0007
+Epoch: 46 Generator Loss: 27.5991 Discriminator Loss: 0.11589538305997849, Time: 72.27
+
+
+Iter:7650	 Generator Loss:24.4858 Discrimator Loss:0.1056 	GA2B:0.9992 GB2A:0.5090 G_id:1.5349 G_cyc:1.5303 D_A:0.2105 D_B:0.0007
+Iter:7700	 Generator Loss:24.8374 Discrimator Loss:0.0993 	GA2B:1.0019 GB2A:0.7187 G_id:1.5400 G_cyc:1.5417 D_A:0.1982 D_B:0.0004
+Iter:7750	 Generator Loss:25.3768 Discrimator Loss:0.0657 	GA2B:0.9960 GB2A:0.4801 G_id:1.5921 G_cyc:1.5940 D_A:0.1310 D_B:0.0004
+Epoch: 47 Generator Loss: 25.0606 Discriminator Loss: 0.09453310817480087, Time: 72.11
+
+
+Iter:7800	 Generator Loss:25.1065 Discrimator Loss:0.1038 	GA2B:0.9911 GB2A:0.3783 G_id:1.5820 G_cyc:1.5827 D_A:0.2071 D_B:0.0005
+Iter:7850	 Generator Loss:24.7481 Discrimator Loss:0.0842 	GA2B:1.0046 GB2A:0.9575 G_id:1.5195 G_cyc:1.5189 D_A:0.1680 D_B:0.0004
+Iter:7900	 Generator Loss:24.4293 Discrimator Loss:0.0997 	GA2B:0.9978 GB2A:0.5210 G_id:1.5243 G_cyc:1.5289 D_A:0.1989 D_B:0.0006
+Epoch: 48 Generator Loss: 26.4380 Discriminator Loss: 0.06314504891633987, Time: 72.17
+
+
+Iter:7950	 Generator Loss:24.9917 Discrimator Loss:0.1192 	GA2B:0.9999 GB2A:0.3897 G_id:1.5754 G_cyc:1.5725 D_A:0.2381 D_B:0.0004
+Iter:8000	 Generator Loss:23.9285 Discrimator Loss:0.0737 	GA2B:0.9996 GB2A:0.4024 G_id:1.5018 G_cyc:1.5018 D_A:0.1470 D_B:0.0004
+Iter:8050	 Generator Loss:27.1638 Discrimator Loss:0.0855 	GA2B:1.0133 GB2A:0.3836 G_id:1.8575 G_cyc:1.6480 D_A:0.1700 D_B:0.0010
+Epoch: 49 Generator Loss: 26.0781 Discriminator Loss: 0.11678221821784973, Time: 72.18
+
+
+Iter:8100	 Generator Loss:26.1936 Discrimator Loss:0.0889 	GA2B:1.0077 GB2A:0.5069 G_id:1.6473 G_cyc:1.6443 D_A:0.1772 D_B:0.0006
+Iter:8150	 Generator Loss:25.7442 Discrimator Loss:0.0927 	GA2B:1.0007 GB2A:0.4306 G_id:1.6177 G_cyc:1.6224 D_A:0.1850 D_B:0.0004
+Iter:8200	 Generator Loss:24.7613 Discrimator Loss:0.1232 	GA2B:0.9977 GB2A:0.5481 G_id:1.5463 G_cyc:1.5484 D_A:0.2462 D_B:0.0002
+Iter:8250	 Generator Loss:25.6543 Discrimator Loss:0.1064 	GA2B:1.0039 GB2A:0.6104 G_id:1.6036 G_cyc:1.6022 D_A:0.2122 D_B:0.0006
+Epoch: 50 Generator Loss: 25.3323 Discriminator Loss: 0.1600518822669983, Time: 72.13
+
+
+Iter:8300	 Generator Loss:24.5447 Discrimator Loss:0.1044 	GA2B:1.0039 GB2A:0.4047 G_id:1.5380 G_cyc:1.5446 D_A:0.2086 D_B:0.0003
+Iter:8350	 Generator Loss:25.8315 Discrimator Loss:0.1414 	GA2B:1.0118 GB2A:0.4691 G_id:1.6257 G_cyc:1.6222 D_A:0.2824 D_B:0.0004
+Iter:8400	 Generator Loss:25.5652 Discrimator Loss:0.1145 	GA2B:0.9861 GB2A:0.5639 G_id:1.6031 G_cyc:1.6000 D_A:0.2284 D_B:0.0006
+Epoch: 51 Generator Loss: 25.0013 Discriminator Loss: 0.14331822097301483, Time: 72.15
+
+
+Iter:8450	 Generator Loss:25.2090 Discrimator Loss:0.0110 	GA2B:1.0003 GB2A:0.9761 G_id:1.5478 G_cyc:1.5494 D_A:0.0217 D_B:0.0004
+Iter:8500	 Generator Loss:25.0143 Discrimator Loss:0.0644 	GA2B:1.0142 GB2A:0.8001 G_id:1.5454 G_cyc:1.5473 D_A:0.1283 D_B:0.0005
+Iter:8550	 Generator Loss:26.5927 Discrimator Loss:0.0119 	GA2B:0.9902 GB2A:1.0207 G_id:1.6417 G_cyc:1.6373 D_A:0.0227 D_B:0.0010
+Epoch: 52 Generator Loss: 26.4443 Discriminator Loss: 0.12573741376399994, Time: 72.07
+
+
+Iter:8600	 Generator Loss:25.4526 Discrimator Loss:0.0759 	GA2B:1.0177 GB2A:0.5116 G_id:1.5945 G_cyc:1.5951 D_A:0.1491 D_B:0.0028
+Iter:8650	 Generator Loss:26.2573 Discrimator Loss:0.1465 	GA2B:0.9983 GB2A:0.5024 G_id:1.6530 G_cyc:1.6492 D_A:0.2925 D_B:0.0006
+Iter:8700	 Generator Loss:25.0518 Discrimator Loss:0.0582 	GA2B:1.0051 GB2A:0.5585 G_id:1.5645 G_cyc:1.5666 D_A:0.1159 D_B:0.0005
+Epoch: 53 Generator Loss: 25.2085 Discriminator Loss: 0.046089619398117065, Time: 71.94
+
+
+Iter:8750	 Generator Loss:24.7253 Discrimator Loss:0.1044 	GA2B:0.9683 GB2A:0.5361 G_id:1.5582 G_cyc:1.5430 D_A:0.2081 D_B:0.0006
+Iter:8800	 Generator Loss:25.4986 Discrimator Loss:0.0565 	GA2B:0.9923 GB2A:0.7119 G_id:1.5868 G_cyc:1.5860 D_A:0.1124 D_B:0.0007
+Iter:8850	 Generator Loss:26.8611 Discrimator Loss:0.1002 	GA2B:0.9981 GB2A:0.5267 G_id:1.6917 G_cyc:1.6878 D_A:0.1999 D_B:0.0005
+Iter:8900	 Generator Loss:26.5383 Discrimator Loss:0.0736 	GA2B:1.0000 GB2A:0.5243 G_id:1.6757 G_cyc:1.6636 D_A:0.1465 D_B:0.0008
+Epoch: 54 Generator Loss: 25.9681 Discriminator Loss: 0.11442043632268906, Time: 72.21
+
+
+Iter:8950	 Generator Loss:25.3821 Discrimator Loss:0.0784 	GA2B:1.0084 GB2A:0.5543 G_id:1.5921 G_cyc:1.5859 D_A:0.1564 D_B:0.0004
+Iter:9000	 Generator Loss:25.5630 Discrimator Loss:0.0868 	GA2B:1.0029 GB2A:0.6172 G_id:1.5949 G_cyc:1.5968 D_A:0.1730 D_B:0.0006
+Iter:9050	 Generator Loss:27.1445 Discrimator Loss:0.0969 	GA2B:1.0013 GB2A:0.5824 G_id:1.6931 G_cyc:1.7095 D_A:0.1933 D_B:0.0006
+Epoch: 55 Generator Loss: 22.8589 Discriminator Loss: 0.09884877502918243, Time: 72.23
+
+
+Iter:9100	 Generator Loss:23.6319 Discrimator Loss:0.0582 	GA2B:0.9959 GB2A:0.5559 G_id:1.4715 G_cyc:1.4723 D_A:0.1157 D_B:0.0007
+Iter:9150	 Generator Loss:24.3644 Discrimator Loss:0.1244 	GA2B:0.9957 GB2A:0.5911 G_id:1.5173 G_cyc:1.5191 D_A:0.2484 D_B:0.0004
+Iter:9200	 Generator Loss:26.4808 Discrimator Loss:0.0949 	GA2B:1.0020 GB2A:0.5710 G_id:1.6641 G_cyc:1.6587 D_A:0.1895 D_B:0.0002
+Epoch: 56 Generator Loss: 25.9489 Discriminator Loss: 0.12358485162258148, Time: 72.23
+
+
+Iter:9250	 Generator Loss:26.1510 Discrimator Loss:0.0652 	GA2B:0.9972 GB2A:0.6698 G_id:1.6329 G_cyc:1.6319 D_A:0.1300 D_B:0.0005
+Iter:9300	 Generator Loss:28.0513 Discrimator Loss:0.1336 	GA2B:1.0039 GB2A:0.4831 G_id:1.7750 G_cyc:1.7689 D_A:0.2668 D_B:0.0004
+Iter:9350	 Generator Loss:25.4828 Discrimator Loss:0.1528 	GA2B:0.9983 GB2A:0.4630 G_id:1.6056 G_cyc:1.5994 D_A:0.3055 D_B:0.0002
+Epoch: 57 Generator Loss: 28.2342 Discriminator Loss: 0.13596659898757935, Time: 72.26
+
+
+Iter:9400	 Generator Loss:26.4687 Discrimator Loss:0.1156 	GA2B:1.0013 GB2A:0.7476 G_id:1.6441 G_cyc:1.6499 D_A:0.2304 D_B:0.0008
+Iter:9450	 Generator Loss:27.1090 Discrimator Loss:0.0667 	GA2B:1.0028 GB2A:0.5791 G_id:1.7031 G_cyc:1.7012 D_A:0.1331 D_B:0.0003
+Iter:9500	 Generator Loss:26.4124 Discrimator Loss:0.0785 	GA2B:0.9985 GB2A:0.4884 G_id:1.6624 G_cyc:1.6614 D_A:0.1566 D_B:0.0003
+Iter:9550	 Generator Loss:25.6700 Discrimator Loss:0.0987 	GA2B:0.9976 GB2A:0.6895 G_id:1.6075 G_cyc:1.5946 D_A:0.1971 D_B:0.0004
+Epoch: 58 Generator Loss: 28.8992 Discriminator Loss: 0.09728546440601349, Time: 72.25
+
+
+Iter:9600	 Generator Loss:21.8843 Discrimator Loss:0.0635 	GA2B:1.0116 GB2A:0.5679 G_id:1.3518 G_cyc:1.3546 D_A:0.1265 D_B:0.0005
+Iter:9650	 Generator Loss:25.2261 Discrimator Loss:0.1217 	GA2B:1.0023 GB2A:0.6508 G_id:1.5664 G_cyc:1.5741 D_A:0.2432 D_B:0.0003
+Iter:9700	 Generator Loss:26.0178 Discrimator Loss:0.0961 	GA2B:0.9952 GB2A:0.7496 G_id:1.6170 G_cyc:1.6188 D_A:0.1919 D_B:0.0004
+Epoch: 59 Generator Loss: 25.5190 Discriminator Loss: 0.0662795677781105, Time: 72.17
+
+
+Iter:9750	 Generator Loss:28.8223 Discrimator Loss:0.1951 	GA2B:0.9940 GB2A:0.4188 G_id:1.8267 G_cyc:1.8276 D_A:0.3898 D_B:0.0004
+Iter:9800	 Generator Loss:24.2109 Discrimator Loss:0.1203 	GA2B:1.0075 GB2A:0.5300 G_id:1.5130 G_cyc:1.5109 D_A:0.2403 D_B:0.0003
+Iter:9850	 Generator Loss:22.0687 Discrimator Loss:0.1057 	GA2B:1.0004 GB2A:0.4855 G_id:1.3711 G_cyc:1.3727 D_A:0.2106 D_B:0.0008
+Epoch: 60 Generator Loss: 25.6765 Discriminator Loss: 0.07826559245586395, Time: 72.23
+
+
+Iter:9900	 Generator Loss:24.6788 Discrimator Loss:0.1246 	GA2B:0.9976 GB2A:0.3900 G_id:1.5501 G_cyc:1.5541 D_A:0.2489 D_B:0.0002
+Iter:9950	 Generator Loss:23.9932 Discrimator Loss:0.0593 	GA2B:1.0024 GB2A:0.4887 G_id:1.4989 G_cyc:1.5008 D_A:0.1184 D_B:0.0003
+Iter:10000	 Generator Loss:23.7424 Discrimator Loss:0.0458 	GA2B:0.9929 GB2A:0.5755 G_id:1.4777 G_cyc:1.4786 D_A:0.0910 D_B:0.0006
+Epoch: 61 Generator Loss: 18.0630 Discriminator Loss: 0.11558879166841507, Time: 72.23
+
+
+Iter:10050	 Generator Loss:17.1034 Discrimator Loss:0.1504 	GA2B:1.0114 GB2A:0.6736 G_id:1.5445 G_cyc:1.5418 D_A:0.3003 D_B:0.0005
+Iter:10100	 Generator Loss:18.6192 Discrimator Loss:0.1027 	GA2B:1.0000 GB2A:0.5571 G_id:1.7081 G_cyc:1.7062 D_A:0.2050 D_B:0.0003
+Iter:10150	 Generator Loss:16.4274 Discrimator Loss:0.0720 	GA2B:0.9927 GB2A:0.4308 G_id:1.5018 G_cyc:1.5004 D_A:0.1435 D_B:0.0005
+Iter:10200	 Generator Loss:17.9156 Discrimator Loss:0.1066 	GA2B:1.0002 GB2A:0.5284 G_id:1.6351 G_cyc:1.6387 D_A:0.2129 D_B:0.0003
+Epoch: 62 Generator Loss: 18.8861 Discriminator Loss: 0.10136900842189789, Time: 72.17
+
+
+Iter:10250	 Generator Loss:18.7379 Discrimator Loss:0.1418 	GA2B:1.0040 GB2A:0.5011 G_id:1.7187 G_cyc:1.7233 D_A:0.2832 D_B:0.0004
+Iter:10300	 Generator Loss:16.7017 Discrimator Loss:0.1384 	GA2B:0.9904 GB2A:0.5261 G_id:1.5224 G_cyc:1.5185 D_A:0.2765 D_B:0.0003
+Iter:10350	 Generator Loss:16.2001 Discrimator Loss:0.0849 	GA2B:1.0004 GB2A:0.4911 G_id:1.4745 G_cyc:1.4708 D_A:0.1687 D_B:0.0010
+Epoch: 63 Generator Loss: 19.4892 Discriminator Loss: 0.04819156602025032, Time: 72.16
+
+
+Iter:10400	 Generator Loss:18.9380 Discrimator Loss:0.0940 	GA2B:1.0277 GB2A:0.6321 G_id:1.7370 G_cyc:1.7278 D_A:0.1864 D_B:0.0016
+Iter:10450	 Generator Loss:16.1161 Discrimator Loss:0.0648 	GA2B:1.0034 GB2A:0.4135 G_id:1.4614 G_cyc:1.4699 D_A:0.1290 D_B:0.0005
+Iter:10500	 Generator Loss:16.2154 Discrimator Loss:0.0924 	GA2B:0.9979 GB2A:0.4723 G_id:1.4719 G_cyc:1.4745 D_A:0.1844 D_B:0.0004
+Epoch: 64 Generator Loss: 19.2570 Discriminator Loss: 0.10212933272123337, Time: 72.21
+
+
+Iter:10550	 Generator Loss:16.8345 Discrimator Loss:0.0764 	GA2B:1.0018 GB2A:0.6355 G_id:1.5858 G_cyc:1.5197 D_A:0.1526 D_B:0.0003
+Iter:10600	 Generator Loss:17.4919 Discrimator Loss:0.1189 	GA2B:0.9981 GB2A:0.5578 G_id:1.6023 G_cyc:1.5936 D_A:0.2375 D_B:0.0003
+Iter:10650	 Generator Loss:17.8780 Discrimator Loss:0.0757 	GA2B:1.0090 GB2A:0.5064 G_id:1.6271 G_cyc:1.6363 D_A:0.1510 D_B:0.0003
+Epoch: 65 Generator Loss: 17.8937 Discriminator Loss: 0.10670540481805801, Time: 72.33
+
+
+Iter:10700	 Generator Loss:17.1686 Discrimator Loss:0.0946 	GA2B:0.9979 GB2A:0.5999 G_id:1.5510 G_cyc:1.5571 D_A:0.1890 D_B:0.0002
+Iter:10750	 Generator Loss:17.8123 Discrimator Loss:0.0893 	GA2B:0.9955 GB2A:0.6684 G_id:1.6075 G_cyc:1.6148 D_A:0.1784 D_B:0.0003
+Iter:10800	 Generator Loss:19.4106 Discrimator Loss:0.0972 	GA2B:1.0045 GB2A:0.5580 G_id:1.7833 G_cyc:1.7848 D_A:0.1942 D_B:0.0003
+Iter:10850	 Generator Loss:18.3476 Discrimator Loss:0.1581 	GA2B:1.0003 GB2A:0.4439 G_id:1.8971 G_cyc:1.6903 D_A:0.3160 D_B:0.0002
+Epoch: 66 Generator Loss: 16.8515 Discriminator Loss: 0.09516296535730362, Time: 72.21
+
+
+Iter:10900	 Generator Loss:16.9558 Discrimator Loss:0.0985 	GA2B:1.0001 GB2A:0.5105 G_id:1.5400 G_cyc:1.5445 D_A:0.1967 D_B:0.0003
+Iter:10950	 Generator Loss:19.0560 Discrimator Loss:0.1438 	GA2B:0.9973 GB2A:0.7468 G_id:2.0078 G_cyc:1.7312 D_A:0.2874 D_B:0.0002
+Iter:11000	 Generator Loss:16.0725 Discrimator Loss:0.1267 	GA2B:0.9865 GB2A:0.4365 G_id:1.4708 G_cyc:1.4649 D_A:0.2531 D_B:0.0003
+Epoch: 67 Generator Loss: 16.5878 Discriminator Loss: 0.1309504508972168, Time: 72.16
+
+
+Iter:11050	 Generator Loss:17.0573 Discrimator Loss:0.1232 	GA2B:1.0075 GB2A:0.6031 G_id:1.5418 G_cyc:1.5447 D_A:0.2461 D_B:0.0003
+Iter:11100	 Generator Loss:18.0105 Discrimator Loss:0.0758 	GA2B:1.0112 GB2A:0.8012 G_id:1.6158 G_cyc:1.6198 D_A:0.1513 D_B:0.0003
+Iter:11150	 Generator Loss:17.5173 Discrimator Loss:0.0936 	GA2B:1.0027 GB2A:0.4657 G_id:1.6056 G_cyc:1.6049 D_A:0.1869 D_B:0.0003
+Epoch: 68 Generator Loss: 16.7614 Discriminator Loss: 0.04374312981963158, Time: 72.19
+
+
+Iter:11200	 Generator Loss:17.2342 Discrimator Loss:0.0833 	GA2B:1.0044 GB2A:0.6879 G_id:1.6165 G_cyc:1.5542 D_A:0.1661 D_B:0.0004
+Iter:11250	 Generator Loss:17.4570 Discrimator Loss:0.0834 	GA2B:0.9977 GB2A:0.5328 G_id:1.5918 G_cyc:1.5926 D_A:0.1664 D_B:0.0004
+Iter:11300	 Generator Loss:18.1189 Discrimator Loss:0.1289 	GA2B:1.0084 GB2A:0.5856 G_id:1.6532 G_cyc:1.6525 D_A:0.2573 D_B:0.0005
+Epoch: 69 Generator Loss: 16.9453 Discriminator Loss: 0.10864929854869843, Time: 72.17
+
+
+Iter:11350	 Generator Loss:18.9275 Discrimator Loss:0.0917 	GA2B:1.0032 GB2A:0.7007 G_id:1.8859 G_cyc:1.7224 D_A:0.1830 D_B:0.0004
+Iter:11400	 Generator Loss:18.4870 Discrimator Loss:0.0937 	GA2B:1.0041 GB2A:0.5383 G_id:1.7012 G_cyc:1.6945 D_A:0.1870 D_B:0.0003
+Iter:11450	 Generator Loss:17.5311 Discrimator Loss:0.0883 	GA2B:1.0103 GB2A:0.6262 G_id:1.9372 G_cyc:1.5895 D_A:0.1762 D_B:0.0003
+Iter:11500	 Generator Loss:16.9424 Discrimator Loss:0.1361 	GA2B:0.9971 GB2A:0.6012 G_id:1.5405 G_cyc:1.5344 D_A:0.2721 D_B:0.0002
+Epoch: 70 Generator Loss: 19.0903 Discriminator Loss: 0.10385408252477646, Time: 72.17
+
+
+Iter:11550	 Generator Loss:17.7214 Discrimator Loss:0.1066 	GA2B:1.0041 GB2A:0.4752 G_id:1.6231 G_cyc:1.6242 D_A:0.2128 D_B:0.0003
+Iter:11600	 Generator Loss:17.2719 Discrimator Loss:0.0906 	GA2B:1.0027 GB2A:0.4642 G_id:1.5858 G_cyc:1.5805 D_A:0.1808 D_B:0.0004
+Iter:11650	 Generator Loss:18.1472 Discrimator Loss:0.1116 	GA2B:1.0006 GB2A:0.5633 G_id:1.9561 G_cyc:1.6583 D_A:0.2231 D_B:0.0002
+Epoch: 71 Generator Loss: 17.2019 Discriminator Loss: 0.1309373378753662, Time: 72.16
+
+
+Iter:11700	 Generator Loss:16.9784 Discrimator Loss:0.1225 	GA2B:1.0039 GB2A:0.6404 G_id:1.8185 G_cyc:1.5334 D_A:0.2449 D_B:0.0002
+Iter:11750	 Generator Loss:18.0954 Discrimator Loss:0.0673 	GA2B:0.9964 GB2A:0.6083 G_id:1.6447 G_cyc:1.6491 D_A:0.1342 D_B:0.0004
+Iter:11800	 Generator Loss:18.8421 Discrimator Loss:0.0745 	GA2B:1.0008 GB2A:0.7373 G_id:1.8617 G_cyc:1.7104 D_A:0.1487 D_B:0.0003
+Epoch: 72 Generator Loss: 18.1858 Discriminator Loss: 0.12941685318946838, Time: 72.20
+
+
+Iter:11850	 Generator Loss:17.7266 Discrimator Loss:0.0773 	GA2B:0.9999 GB2A:0.4669 G_id:1.6387 G_cyc:1.6260 D_A:0.1544 D_B:0.0002
+Iter:11900	 Generator Loss:17.0783 Discrimator Loss:0.1163 	GA2B:0.9974 GB2A:0.6637 G_id:1.8771 G_cyc:1.5417 D_A:0.2322 D_B:0.0003
+Iter:11950	 Generator Loss:16.7972 Discrimator Loss:0.0885 	GA2B:1.0010 GB2A:0.4511 G_id:1.7956 G_cyc:1.5345 D_A:0.1768 D_B:0.0002
+Epoch: 73 Generator Loss: 19.3203 Discriminator Loss: 0.10931286960840225, Time: 72.23
+
+
+Iter:12000	 Generator Loss:17.8187 Discrimator Loss:0.0325 	GA2B:0.8802 GB2A:0.5911 G_id:1.6255 G_cyc:1.6347 D_A:0.0550 D_B:0.0101
+Iter:12050	 Generator Loss:17.9400 Discrimator Loss:0.0689 	GA2B:1.1574 GB2A:0.6781 G_id:1.6395 G_cyc:1.6105 D_A:0.0964 D_B:0.0415
+Iter:12100	 Generator Loss:19.2738 Discrimator Loss:0.0524 	GA2B:1.0145 GB2A:1.0305 G_id:1.7689 G_cyc:1.7229 D_A:0.1026 D_B:0.0022
+Epoch: 74 Generator Loss: 19.8389 Discriminator Loss: 0.055578991770744324, Time: 72.23
+
+
+Iter:12150	 Generator Loss:18.0273 Discrimator Loss:0.0895 	GA2B:0.9646 GB2A:0.8587 G_id:1.6125 G_cyc:1.6204 D_A:0.1757 D_B:0.0034
+Iter:12200	 Generator Loss:18.1122 Discrimator Loss:0.0842 	GA2B:0.9122 GB2A:0.6637 G_id:1.6760 G_cyc:1.6536 D_A:0.1648 D_B:0.0036
+Iter:12250	 Generator Loss:16.4716 Discrimator Loss:0.0867 	GA2B:0.8415 GB2A:0.5612 G_id:1.5529 G_cyc:1.5069 D_A:0.1674 D_B:0.0061
+Iter:12300	 Generator Loss:17.2604 Discrimator Loss:0.0546 	GA2B:1.0496 GB2A:0.6261 G_id:1.6606 G_cyc:1.5585 D_A:0.1065 D_B:0.0027
+Epoch: 75 Generator Loss: 17.5218 Discriminator Loss: 0.07711069285869598, Time: 72.19
+
+
+Iter:12350	 Generator Loss:15.9788 Discrimator Loss:0.1190 	GA2B:1.0589 GB2A:0.7186 G_id:1.4667 G_cyc:1.4201 D_A:0.2345 D_B:0.0035
+Iter:12400	 Generator Loss:18.2486 Discrimator Loss:0.0511 	GA2B:0.9319 GB2A:0.8104 G_id:1.7257 G_cyc:1.6506 D_A:0.1001 D_B:0.0020
+Iter:12450	 Generator Loss:18.4624 Discrimator Loss:0.1466 	GA2B:1.1027 GB2A:0.6320 G_id:1.7480 G_cyc:1.6728 D_A:0.2898 D_B:0.0035
+Epoch: 76 Generator Loss: 17.8238 Discriminator Loss: 0.07122011482715607, Time: 72.30
+
+
+Iter:12500	 Generator Loss:19.3484 Discrimator Loss:0.0693 	GA2B:1.0547 GB2A:0.5866 G_id:1.8104 G_cyc:1.7707 D_A:0.1359 D_B:0.0027
+Iter:12550	 Generator Loss:18.4928 Discrimator Loss:0.1029 	GA2B:1.0056 GB2A:0.6676 G_id:1.7412 G_cyc:1.6820 D_A:0.2053 D_B:0.0005
+Iter:12600	 Generator Loss:18.7498 Discrimator Loss:0.0956 	GA2B:1.0057 GB2A:0.5761 G_id:1.7447 G_cyc:1.7168 D_A:0.1909 D_B:0.0003
+Epoch: 77 Generator Loss: 15.4718 Discriminator Loss: 0.07182645797729492, Time: 72.23
+
+
+Iter:12650	 Generator Loss:18.3808 Discrimator Loss:0.1187 	GA2B:1.0040 GB2A:0.5987 G_id:1.7226 G_cyc:1.6778 D_A:0.2366 D_B:0.0007
+Iter:12700	 Generator Loss:19.3907 Discrimator Loss:0.0614 	GA2B:1.0083 GB2A:1.1982 G_id:1.7309 G_cyc:1.7184 D_A:0.1221 D_B:0.0007
+Iter:12750	 Generator Loss:16.6633 Discrimator Loss:0.1254 	GA2B:1.0043 GB2A:0.4978 G_id:1.5255 G_cyc:1.5161 D_A:0.2505 D_B:0.0002
+Epoch: 78 Generator Loss: 17.8791 Discriminator Loss: 0.08233699947595596, Time: 72.19
+
+
+Iter:12800	 Generator Loss:17.4543 Discrimator Loss:0.1067 	GA2B:1.0013 GB2A:0.5610 G_id:1.8727 G_cyc:1.5892 D_A:0.2131 D_B:0.0003
+Iter:12850	 Generator Loss:18.8608 Discrimator Loss:0.0438 	GA2B:1.0000 GB2A:1.0860 G_id:1.7012 G_cyc:1.6775 D_A:0.0869 D_B:0.0007
+Iter:12900	 Generator Loss:18.8086 Discrimator Loss:0.1563 	GA2B:0.9998 GB2A:0.5646 G_id:1.7424 G_cyc:1.7244 D_A:0.3123 D_B:0.0003
+Iter:12950	 Generator Loss:16.9199 Discrimator Loss:0.0854 	GA2B:1.0041 GB2A:0.6361 G_id:1.5373 G_cyc:1.5280 D_A:0.1704 D_B:0.0003
+Epoch: 79 Generator Loss: 17.9260 Discriminator Loss: 0.10103663802146912, Time: 72.20
+
+
+Iter:13000	 Generator Loss:19.1437 Discrimator Loss:0.1893 	GA2B:1.0013 GB2A:0.5897 G_id:1.7619 G_cyc:1.7553 D_A:0.3784 D_B:0.0002
+Iter:13050	 Generator Loss:17.4486 Discrimator Loss:0.0455 	GA2B:1.0026 GB2A:0.7110 G_id:1.5663 G_cyc:1.5735 D_A:0.0908 D_B:0.0001
+Iter:13100	 Generator Loss:18.9452 Discrimator Loss:0.1784 	GA2B:1.0027 GB2A:0.8300 G_id:1.7113 G_cyc:1.7113 D_A:0.3567 D_B:0.0002
+Epoch: 80 Generator Loss: 18.2317 Discriminator Loss: 0.12734870612621307, Time: 72.22
+
+
+Iter:13150	 Generator Loss:16.6639 Discrimator Loss:0.0805 	GA2B:1.0027 GB2A:0.5205 G_id:1.8805 G_cyc:1.5141 D_A:0.1608 D_B:0.0002
+Iter:13200	 Generator Loss:17.5863 Discrimator Loss:0.1084 	GA2B:1.0031 GB2A:0.5363 G_id:1.6137 G_cyc:1.6047 D_A:0.2165 D_B:0.0003
+Iter:13250	 Generator Loss:18.2321 Discrimator Loss:0.0906 	GA2B:0.9999 GB2A:0.5971 G_id:1.6714 G_cyc:1.6635 D_A:0.1811 D_B:0.0001
+Epoch: 81 Generator Loss: 16.7486 Discriminator Loss: 0.07254108041524887, Time: 72.23
+
+
+Iter:13300	 Generator Loss:18.0343 Discrimator Loss:0.0659 	GA2B:1.0022 GB2A:0.5458 G_id:1.6463 G_cyc:1.6486 D_A:0.1317 D_B:0.0001
+Iter:13350	 Generator Loss:18.9484 Discrimator Loss:0.0909 	GA2B:1.0015 GB2A:0.3806 G_id:1.7688 G_cyc:1.7566 D_A:0.1817 D_B:0.0001
+Iter:13400	 Generator Loss:17.2731 Discrimator Loss:0.1189 	GA2B:1.0014 GB2A:0.5170 G_id:1.5777 G_cyc:1.5755 D_A:0.2375 D_B:0.0002
+Epoch: 82 Generator Loss: 18.4425 Discriminator Loss: 0.11196183413267136, Time: 72.19
+
+
+Iter:13450	 Generator Loss:18.9627 Discrimator Loss:0.0857 	GA2B:1.0003 GB2A:0.4840 G_id:1.9828 G_cyc:1.7478 D_A:0.1713 D_B:0.0002
+Iter:13500	 Generator Loss:17.1261 Discrimator Loss:0.1228 	GA2B:1.0011 GB2A:0.6235 G_id:1.5476 G_cyc:1.5502 D_A:0.2454 D_B:0.0002
+Iter:13550	 Generator Loss:16.7166 Discrimator Loss:0.1374 	GA2B:1.0042 GB2A:0.4705 G_id:1.9656 G_cyc:1.5242 D_A:0.2746 D_B:0.0002
+Iter:13600	 Generator Loss:18.3136 Discrimator Loss:0.0381 	GA2B:1.0033 GB2A:0.6671 G_id:1.6728 G_cyc:1.6643 D_A:0.0761 D_B:0.0001
+Epoch: 83 Generator Loss: 17.8871 Discriminator Loss: 0.05123963579535484, Time: 72.25
+
+
+Iter:13650	 Generator Loss:16.9042 Discrimator Loss:0.1078 	GA2B:0.9991 GB2A:0.4377 G_id:1.5687 G_cyc:1.5467 D_A:0.2150 D_B:0.0005
+Iter:13700	 Generator Loss:17.0162 Discrimator Loss:0.0431 	GA2B:0.9981 GB2A:0.6039 G_id:1.5612 G_cyc:1.5414 D_A:0.0862 D_B:0.0001
+Iter:13750	 Generator Loss:17.9261 Discrimator Loss:0.1132 	GA2B:1.0091 GB2A:0.6612 G_id:2.0045 G_cyc:1.6256 D_A:0.2262 D_B:0.0002
+Epoch: 84 Generator Loss: 17.1374 Discriminator Loss: 0.07182498276233673, Time: 72.15
+
+
+Iter:13800	 Generator Loss:18.1178 Discrimator Loss:0.1102 	GA2B:1.0018 GB2A:0.5823 G_id:1.6875 G_cyc:1.6534 D_A:0.2201 D_B:0.0002
+Iter:13850	 Generator Loss:18.7491 Discrimator Loss:0.0697 	GA2B:1.0003 GB2A:0.7902 G_id:1.7040 G_cyc:1.6959 D_A:0.1391 D_B:0.0003
+Iter:13900	 Generator Loss:17.7351 Discrimator Loss:0.1187 	GA2B:0.9987 GB2A:0.5015 G_id:1.6386 G_cyc:1.6235 D_A:0.2374 D_B:0.0001
+Epoch: 85 Generator Loss: 19.2965 Discriminator Loss: 0.09543073177337646, Time: 72.18
+
+
+Iter:13950	 Generator Loss:19.4160 Discrimator Loss:0.1029 	GA2B:1.0008 GB2A:0.5484 G_id:2.2379 G_cyc:1.7867 D_A:0.2057 D_B:0.0001
+Iter:14000	 Generator Loss:17.6190 Discrimator Loss:0.0645 	GA2B:0.9992 GB2A:0.7390 G_id:1.8872 G_cyc:1.5881 D_A:0.1289 D_B:0.0002
+Iter:14050	 Generator Loss:16.6230 Discrimator Loss:0.0569 	GA2B:1.0029 GB2A:0.5401 G_id:1.4964 G_cyc:1.5080 D_A:0.1133 D_B:0.0004
+Epoch: 86 Generator Loss: 17.2887 Discriminator Loss: 0.11563283950090408, Time: 72.19
+
+
+Iter:14100	 Generator Loss:17.7982 Discrimator Loss:0.1225 	GA2B:1.0008 GB2A:0.5393 G_id:1.6304 G_cyc:1.6258 D_A:0.2449 D_B:0.0002
+Iter:14150	 Generator Loss:17.4875 Discrimator Loss:0.0923 	GA2B:0.9991 GB2A:0.7769 G_id:1.5825 G_cyc:1.5711 D_A:0.1845 D_B:0.0002
+Iter:14200	 Generator Loss:18.3222 Discrimator Loss:0.0612 	GA2B:1.0005 GB2A:0.5704 G_id:1.6804 G_cyc:1.6751 D_A:0.1223 D_B:0.0002
+Iter:14250	 Generator Loss:17.0736 Discrimator Loss:0.1015 	GA2B:1.0002 GB2A:0.3432 G_id:1.5632 G_cyc:1.5730 D_A:0.2028 D_B:0.0002
+Epoch: 87 Generator Loss: 17.7700 Discriminator Loss: 0.10164659470319748, Time: 72.18
+
+
+Iter:14300	 Generator Loss:18.4277 Discrimator Loss:0.0976 	GA2B:0.9992 GB2A:0.8251 G_id:1.6796 G_cyc:1.6603 D_A:0.1950 D_B:0.0002
+Iter:14350	 Generator Loss:17.0709 Discrimator Loss:0.1075 	GA2B:1.0004 GB2A:0.6275 G_id:1.8326 G_cyc:1.5443 D_A:0.2148 D_B:0.0002
+Iter:14400	 Generator Loss:17.8835 Discrimator Loss:0.0881 	GA2B:1.0014 GB2A:0.5999 G_id:1.6282 G_cyc:1.6282 D_A:0.1760 D_B:0.0001
+Epoch: 88 Generator Loss: 16.1791 Discriminator Loss: 0.12629546225070953, Time: 72.24
+
+
+Iter:14450	 Generator Loss:17.4101 Discrimator Loss:0.1097 	GA2B:1.0014 GB2A:0.5151 G_id:1.5928 G_cyc:1.5894 D_A:0.2192 D_B:0.0001
+Iter:14500	 Generator Loss:18.3557 Discrimator Loss:0.1345 	GA2B:1.0005 GB2A:0.6673 G_id:1.6692 G_cyc:1.6688 D_A:0.2687 D_B:0.0002
+Iter:14550	 Generator Loss:17.1299 Discrimator Loss:0.1142 	GA2B:0.9994 GB2A:0.5485 G_id:1.5652 G_cyc:1.5582 D_A:0.2282 D_B:0.0003
+Epoch: 89 Generator Loss: 18.0825 Discriminator Loss: 0.10873990505933762, Time: 72.21
+
+
+Iter:14600	 Generator Loss:17.4593 Discrimator Loss:0.0650 	GA2B:0.9994 GB2A:0.5887 G_id:1.5880 G_cyc:1.5871 D_A:0.1299 D_B:0.0002
+Iter:14650	 Generator Loss:17.4329 Discrimator Loss:0.1073 	GA2B:0.9952 GB2A:0.5732 G_id:1.5815 G_cyc:1.5865 D_A:0.2143 D_B:0.0003
+Iter:14700	 Generator Loss:16.5672 Discrimator Loss:0.1000 	GA2B:1.0029 GB2A:0.4318 G_id:1.5125 G_cyc:1.5133 D_A:0.1998 D_B:0.0001
+Epoch: 90 Generator Loss: 19.1444 Discriminator Loss: 0.08116589486598969, Time: 72.23
+
+
+Iter:14750	 Generator Loss:16.8635 Discrimator Loss:0.0972 	GA2B:1.0006 GB2A:0.6557 G_id:1.5266 G_cyc:1.5207 D_A:0.1941 D_B:0.0002
+Iter:14800	 Generator Loss:18.6591 Discrimator Loss:0.1222 	GA2B:0.9983 GB2A:0.5251 G_id:1.7190 G_cyc:1.7136 D_A:0.2441 D_B:0.0003
+Iter:14850	 Generator Loss:17.1356 Discrimator Loss:0.0601 	GA2B:1.0005 GB2A:0.4908 G_id:1.5724 G_cyc:1.5644 D_A:0.1200 D_B:0.0001
+Iter:14900	 Generator Loss:16.6392 Discrimator Loss:0.1172 	GA2B:1.0001 GB2A:0.4945 G_id:1.5171 G_cyc:1.5145 D_A:0.2341 D_B:0.0003
+Epoch: 91 Generator Loss: 17.8956 Discriminator Loss: 0.07089772820472717, Time: 72.24
+
+
+Iter:14950	 Generator Loss:18.1190 Discrimator Loss:0.0901 	GA2B:1.0004 GB2A:0.4040 G_id:1.6700 G_cyc:1.6715 D_A:0.1800 D_B:0.0001
+Iter:15000	 Generator Loss:16.4429 Discrimator Loss:0.1501 	GA2B:1.0008 GB2A:0.4266 G_id:1.5225 G_cyc:1.5016 D_A:0.3000 D_B:0.0001
+Iter:15050	 Generator Loss:16.7517 Discrimator Loss:0.0450 	GA2B:0.9992 GB2A:0.5669 G_id:1.5189 G_cyc:1.5186 D_A:0.0899 D_B:0.0002
+Epoch: 92 Generator Loss: 16.7499 Discriminator Loss: 0.08543877303600311, Time: 72.27
+
+
+Iter:15100	 Generator Loss:17.2836 Discrimator Loss:0.1090 	GA2B:0.9996 GB2A:0.6766 G_id:1.9387 G_cyc:1.5607 D_A:0.2179 D_B:0.0001
+Iter:15150	 Generator Loss:19.6406 Discrimator Loss:0.0702 	GA2B:0.9990 GB2A:0.4598 G_id:1.8143 G_cyc:1.8182 D_A:0.1403 D_B:0.0001
+Iter:15200	 Generator Loss:18.4790 Discrimator Loss:0.1578 	GA2B:0.9995 GB2A:0.5916 G_id:1.7347 G_cyc:1.6888 D_A:0.3155 D_B:0.0002
+Epoch: 93 Generator Loss: 16.9754 Discriminator Loss: 0.06827270239591599, Time: 72.20
+
+
+Iter:15250	 Generator Loss:19.0777 Discrimator Loss:0.1164 	GA2B:1.0000 GB2A:0.4888 G_id:1.7590 G_cyc:1.7589 D_A:0.2325 D_B:0.0002
+Iter:15300	 Generator Loss:18.1517 Discrimator Loss:0.1725 	GA2B:0.9998 GB2A:0.5692 G_id:1.6862 G_cyc:1.6583 D_A:0.3448 D_B:0.0001
+Iter:15350	 Generator Loss:17.6408 Discrimator Loss:0.0979 	GA2B:0.9999 GB2A:0.5607 G_id:1.6070 G_cyc:1.6080 D_A:0.1957 D_B:0.0002
+Epoch: 94 Generator Loss: 17.7430 Discriminator Loss: 0.11195383965969086, Time: 72.23
+
+
+Iter:15400	 Generator Loss:17.9722 Discrimator Loss:0.1391 	GA2B:0.9995 GB2A:0.5351 G_id:1.6381 G_cyc:1.6438 D_A:0.2781 D_B:0.0001
+Iter:15450	 Generator Loss:15.9629 Discrimator Loss:0.1280 	GA2B:0.9999 GB2A:0.5492 G_id:1.4415 G_cyc:1.4414 D_A:0.2559 D_B:0.0002
+Iter:15500	 Generator Loss:17.2289 Discrimator Loss:0.1280 	GA2B:1.0000 GB2A:0.5896 G_id:1.5645 G_cyc:1.5639 D_A:0.2557 D_B:0.0003
+Iter:15550	 Generator Loss:16.8223 Discrimator Loss:0.0653 	GA2B:1.0009 GB2A:0.5859 G_id:1.8416 G_cyc:1.5236 D_A:0.1305 D_B:0.0002
+Epoch: 95 Generator Loss: 17.4640 Discriminator Loss: 0.11125945299863815, Time: 72.21
+
+
+Iter:15600	 Generator Loss:17.5976 Discrimator Loss:0.1287 	GA2B:1.0000 GB2A:0.5776 G_id:1.6275 G_cyc:1.6020 D_A:0.2573 D_B:0.0001
+Iter:15650	 Generator Loss:18.7059 Discrimator Loss:0.0919 	GA2B:1.0019 GB2A:0.5174 G_id:2.0304 G_cyc:1.7187 D_A:0.1837 D_B:0.0001
+Iter:15700	 Generator Loss:18.5043 Discrimator Loss:0.1287 	GA2B:0.9986 GB2A:0.5310 G_id:2.1353 G_cyc:1.6975 D_A:0.2574 D_B:0.0001
+Epoch: 96 Generator Loss: 18.4553 Discriminator Loss: 0.12907110154628754, Time: 72.17
+
+
+Iter:15750	 Generator Loss:18.4344 Discrimator Loss:0.1354 	GA2B:1.0010 GB2A:0.5313 G_id:2.0968 G_cyc:1.6902 D_A:0.2707 D_B:0.0001
+Iter:15800	 Generator Loss:19.2895 Discrimator Loss:0.0953 	GA2B:0.9987 GB2A:0.5456 G_id:1.7776 G_cyc:1.7745 D_A:0.1906 D_B:0.0001
+Iter:15850	 Generator Loss:16.0757 Discrimator Loss:0.0739 	GA2B:1.0005 GB2A:0.7204 G_id:1.4339 G_cyc:1.4355 D_A:0.1477 D_B:0.0002
+Epoch: 97 Generator Loss: 18.1452 Discriminator Loss: 0.09825095534324646, Time: 72.19
+
+
+Iter:15900	 Generator Loss:17.9097 Discrimator Loss:0.1348 	GA2B:1.0013 GB2A:0.4961 G_id:1.6394 G_cyc:1.6412 D_A:0.2696 D_B:0.0001
+Iter:15950	 Generator Loss:19.5523 Discrimator Loss:0.2275 	GA2B:1.0013 GB2A:0.4199 G_id:1.8188 G_cyc:1.8131 D_A:0.4549 D_B:0.0001
+Iter:16000	 Generator Loss:16.5082 Discrimator Loss:0.1104 	GA2B:0.9999 GB2A:0.6132 G_id:1.4867 G_cyc:1.4895 D_A:0.2206 D_B:0.0001
+Epoch: 98 Generator Loss: 17.5674 Discriminator Loss: 0.07667682319879532, Time: 72.21
+
+
+Iter:16050	 Generator Loss:18.1809 Discrimator Loss:0.0632 	GA2B:0.9966 GB2A:0.5925 G_id:1.6643 G_cyc:1.6592 D_A:0.1262 D_B:0.0002
+Iter:16100	 Generator Loss:18.7262 Discrimator Loss:0.0637 	GA2B:0.9991 GB2A:0.5999 G_id:2.0641 G_cyc:1.7127 D_A:0.1269 D_B:0.0004
+Iter:16150	 Generator Loss:18.2627 Discrimator Loss:0.1474 	GA2B:1.0015 GB2A:0.4612 G_id:1.7515 G_cyc:1.6800 D_A:0.2948 D_B:0.0001
+Epoch: 99 Generator Loss: 16.6782 Discriminator Loss: 0.09037137776613235, Time: 72.24
+
+
+Iter:16200	 Generator Loss:17.4842 Discrimator Loss:0.0570 	GA2B:0.9994 GB2A:0.5765 G_id:1.5933 G_cyc:1.5908 D_A:0.1140 D_B:0.0001
+Iter:16250	 Generator Loss:16.9761 Discrimator Loss:0.1426 	GA2B:1.0000 GB2A:0.4361 G_id:1.8331 G_cyc:1.5540 D_A:0.2851 D_B:0.0001
+Iter:16300	 Generator Loss:17.3344 Discrimator Loss:0.1116 	GA2B:0.9954 GB2A:0.5112 G_id:1.5919 G_cyc:1.5828 D_A:0.2230 D_B:0.0002
+Iter:16350	 Generator Loss:18.1606 Discrimator Loss:0.1577 	GA2B:1.0009 GB2A:0.3664 G_id:1.9696 G_cyc:1.6793 D_A:0.3153 D_B:0.0001
+Epoch: 100 Generator Loss: 17.7055 Discriminator Loss: 0.1652873158454895, Time: 72.23
+
+
+Saving model Checkpoint  ......
+Iter:0	 Generator Loss:28.0265 Discrimator Loss:0.5513 	GA2B:1.0677 GB2A:1.0648 G_id:1.7257 G_cyc:1.7265 D_A:0.5549 D_B:0.5477
+Iter:50	 Generator Loss:27.6127 Discrimator Loss:0.1584 	GA2B:0.9296 GB2A:0.8665 G_id:1.7149 G_cyc:1.7242 D_A:0.1753 D_B:0.1415
+Iter:100	 Generator Loss:29.0686 Discrimator Loss:0.0987 	GA2B:1.2332 GB2A:1.2666 G_id:1.8532 G_cyc:1.7303 D_A:0.1118 D_B:0.0856
+Iter:150	 Generator Loss:31.8414 Discrimator Loss:0.0853 	GA2B:1.8284 GB2A:0.9065 G_id:2.0109 G_cyc:1.9052 D_A:0.0898 D_B:0.0809
+Epoch: 0 Generator Loss: 26.9524 Discriminator Loss: 0.07796785980463028, Time: 73.24
+
+
+Iter:200	 Generator Loss:26.3167 Discrimator Loss:0.1260 	GA2B:1.0960 GB2A:1.0051 G_id:1.6513 G_cyc:1.5959 D_A:0.1290 D_B:0.1231
+Iter:250	 Generator Loss:28.1044 Discrimator Loss:0.1045 	GA2B:1.0061 GB2A:0.9614 G_id:1.8655 G_cyc:1.6809 D_A:0.1024 D_B:0.1067
+Iter:300	 Generator Loss:26.0666 Discrimator Loss:0.1789 	GA2B:1.0296 GB2A:0.6883 G_id:1.6631 G_cyc:1.6033 D_A:0.1283 D_B:0.2296
+Epoch: 1 Generator Loss: 26.6309 Discriminator Loss: 0.1388656497001648, Time: 72.46
+
+
+Iter:350	 Generator Loss:27.5206 Discrimator Loss:0.1603 	GA2B:0.8254 GB2A:0.6270 G_id:1.8942 G_cyc:1.6597 D_A:0.1821 D_B:0.1385
+Iter:400	 Generator Loss:26.4877 Discrimator Loss:0.1334 	GA2B:1.0963 GB2A:1.5530 G_id:1.6024 G_cyc:1.5827 D_A:0.1000 D_B:0.1669
+Iter:0	 Generator Loss:24.8546 Discrimator Loss:0.5214 	GA2B:1.0037 GB2A:1.0434 G_id:1.5245 G_cyc:1.5185 D_A:0.5421 D_B:0.5007
+Iter:50	 Generator Loss:27.4090 Discrimator Loss:0.1134 	GA2B:0.8469 GB2A:1.0193 G_id:1.7055 G_cyc:1.7015 D_A:0.1273 D_B:0.0995
+Iter:100	 Generator Loss:27.8915 Discrimator Loss:0.1176 	GA2B:1.2854 GB2A:0.7865 G_id:1.7147 G_cyc:1.7246 D_A:0.1033 D_B:0.1319
+Iter:150	 Generator Loss:26.1021 Discrimator Loss:0.1154 	GA2B:0.7858 GB2A:0.8437 G_id:1.7492 G_cyc:1.5727 D_A:0.1029 D_B:0.1279
+Epoch: 0 Generator Loss: 29.6899 Discriminator Loss: 0.07895796000957489, Time: 73.13
+
+
+Iter:200	 Generator Loss:28.4731 Discrimator Loss:0.1204 	GA2B:1.0811 GB2A:0.9018 G_id:1.8737 G_cyc:1.7121 D_A:0.1267 D_B:0.1141
+Iter:250	 Generator Loss:27.9214 Discrimator Loss:0.0798 	GA2B:1.0679 GB2A:0.9824 G_id:1.7459 G_cyc:1.7142 D_A:0.1069 D_B:0.0527
+Iter:300	 Generator Loss:28.7413 Discrimator Loss:0.1509 	GA2B:0.7607 GB2A:1.0688 G_id:1.7797 G_cyc:1.8013 D_A:0.1124 D_B:0.1893
+Epoch: 1 Generator Loss: 25.5139 Discriminator Loss: 0.06186162307858467, Time: 72.03
+
+
+Iter:350	 Generator Loss:28.6948 Discrimator Loss:0.0941 	GA2B:1.0398 GB2A:0.7120 G_id:1.8692 G_cyc:1.7597 D_A:0.1472 D_B:0.0411
+Iter:400	 Generator Loss:25.8152 Discrimator Loss:0.2122 	GA2B:1.5526 GB2A:0.7682 G_id:1.5493 G_cyc:1.5748 D_A:0.2379 D_B:0.1866
+Iter:450	 Generator Loss:26.7898 Discrimator Loss:0.0962 	GA2B:0.5671 GB2A:1.1433 G_id:1.6891 G_cyc:1.6634 D_A:0.0692 D_B:0.1232
+Epoch: 2 Generator Loss: 27.2709 Discriminator Loss: 0.04081147909164429, Time: 72.15
+
+
+Iter:500	 Generator Loss:25.0458 Discrimator Loss:0.0649 	GA2B:0.8552 GB2A:1.2433 G_id:1.5304 G_cyc:1.5295 D_A:0.0724 D_B:0.0574
+Iter:550	 Generator Loss:23.4749 Discrimator Loss:0.0978 	GA2B:0.8965 GB2A:0.6421 G_id:1.4738 G_cyc:1.4567 D_A:0.1711 D_B:0.0245
+Iter:600	 Generator Loss:25.5071 Discrimator Loss:0.0999 	GA2B:1.1580 GB2A:0.8714 G_id:1.5755 G_cyc:1.5600 D_A:0.1859 D_B:0.0139
+Epoch: 3 Generator Loss: 28.3948 Discriminator Loss: 0.09645976126194, Time: 72.41
+
+
+Iter:650	 Generator Loss:25.5815 Discrimator Loss:0.0837 	GA2B:1.3934 GB2A:0.4712 G_id:1.5810 G_cyc:1.5812 D_A:0.1487 D_B:0.0187
+Iter:700	 Generator Loss:28.1271 Discrimator Loss:0.0960 	GA2B:0.6548 GB2A:0.7493 G_id:1.8021 G_cyc:1.7713 D_A:0.1181 D_B:0.0739
+Iter:750	 Generator Loss:26.6023 Discrimator Loss:0.0803 	GA2B:0.8264 GB2A:1.2752 G_id:1.6277 G_cyc:1.6362 D_A:0.0181 D_B:0.1425
+Iter:800	 Generator Loss:26.7197 Discrimator Loss:0.0233 	GA2B:0.9139 GB2A:1.1438 G_id:1.6676 G_cyc:1.6324 D_A:0.0181 D_B:0.0285
+Epoch: 4 Generator Loss: 29.3300 Discriminator Loss: 0.0515918992459774, Time: 72.28
+
+
+Iter:850	 Generator Loss:27.0463 Discrimator Loss:0.0399 	GA2B:1.2620 GB2A:1.0025 G_id:1.6471 G_cyc:1.6547 D_A:0.0401 D_B:0.0397
+Iter:900	 Generator Loss:26.1275 Discrimator Loss:0.0483 	GA2B:1.0188 GB2A:1.4130 G_id:1.5826 G_cyc:1.5783 D_A:0.0667 D_B:0.0299
+Iter:950	 Generator Loss:26.4938 Discrimator Loss:0.1204 	GA2B:1.4306 GB2A:0.6652 G_id:1.6435 G_cyc:1.6180 D_A:0.1554 D_B:0.0855
+Epoch: 5 Generator Loss: 26.8838 Discriminator Loss: 0.06506695598363876, Time: 72.28
+
+
+Saving model Checkpoint  ......
+Iter:0	 Generator Loss:25.3741 Discrimator Loss:0.5516 	GA2B:1.0586 GB2A:1.0396 G_id:1.5545 G_cyc:1.5504 D_A:0.5607 D_B:0.5426
+Iter:50	 Generator Loss:27.6475 Discrimator Loss:0.1252 	GA2B:0.6087 GB2A:0.9044 G_id:1.7329 G_cyc:1.7470 D_A:0.1004 D_B:0.1500
+Iter:100	 Generator Loss:26.3005 Discrimator Loss:0.0772 	GA2B:1.2894 GB2A:0.7744 G_id:1.6231 G_cyc:1.6121 D_A:0.0878 D_B:0.0667
+Iter:150	 Generator Loss:29.1550 Discrimator Loss:0.0702 	GA2B:0.8122 GB2A:1.1144 G_id:1.9277 G_cyc:1.7590 D_A:0.0540 D_B:0.0864
+Epoch: 0 Generator Loss: 27.4840 Discriminator Loss: 0.06563038378953934, Time: 73.17
+
+
+Iter:200	 Generator Loss:26.7431 Discrimator Loss:0.1105 	GA2B:1.4154 GB2A:1.0669 G_id:1.7543 G_cyc:1.5489 D_A:0.0927 D_B:0.1283
+Iter:250	 Generator Loss:29.5265 Discrimator Loss:0.0950 	GA2B:1.2317 GB2A:0.9078 G_id:1.8931 G_cyc:1.7922 D_A:0.1171 D_B:0.0728
+Iter:300	 Generator Loss:29.3467 Discrimator Loss:0.0804 	GA2B:1.3561 GB2A:2.7505 G_id:1.7338 G_cyc:1.6571 D_A:0.1078 D_B:0.0530
+Epoch: 1 Generator Loss: 26.4626 Discriminator Loss: 0.12879568338394165, Time: 72.15
+
+
+Iter:350	 Generator Loss:28.4891 Discrimator Loss:0.0731 	GA2B:1.0439 GB2A:1.3675 G_id:1.7451 G_cyc:1.7352 D_A:0.0728 D_B:0.0733
+Iter:400	 Generator Loss:22.6069 Discrimator Loss:0.1492 	GA2B:0.8164 GB2A:1.0322 G_id:1.3981 G_cyc:1.3768 D_A:0.1133 D_B:0.1852
+Iter:450	 Generator Loss:27.1652 Discrimator Loss:0.1106 	GA2B:1.3369 GB2A:0.5137 G_id:1.7162 G_cyc:1.6734 D_A:0.1797 D_B:0.0415
+Epoch: 2 Generator Loss: 27.7925 Discriminator Loss: 0.09199459850788116, Time: 72.18
+
+
+Iter:500	 Generator Loss:26.5651 Discrimator Loss:0.0983 	GA2B:0.7616 GB2A:1.5196 G_id:1.6356 G_cyc:1.6106 D_A:0.1222 D_B:0.0744
+Iter:550	 Generator Loss:24.1872 Discrimator Loss:0.0891 	GA2B:0.8423 GB2A:0.6186 G_id:1.5318 G_cyc:1.5067 D_A:0.1501 D_B:0.0281
+Iter:600	 Generator Loss:27.8559 Discrimator Loss:0.0570 	GA2B:1.1209 GB2A:1.3056 G_id:1.7475 G_cyc:1.6692 D_A:0.0581 D_B:0.0559
+Epoch: 3 Generator Loss: 25.8735 Discriminator Loss: 0.14191854000091553, Time: 72.37
+
+
+Iter:650	 Generator Loss:24.6017 Discrimator Loss:0.1419 	GA2B:0.9654 GB2A:0.6384 G_id:1.5408 G_cyc:1.5294 D_A:0.2155 D_B:0.0684
+Iter:700	 Generator Loss:26.5261 Discrimator Loss:0.1709 	GA2B:0.8178 GB2A:0.7022 G_id:1.6627 G_cyc:1.6693 D_A:0.2186 D_B:0.1233
+Iter:750	 Generator Loss:25.5745 Discrimator Loss:0.1067 	GA2B:0.7296 GB2A:1.2753 G_id:1.5677 G_cyc:1.5731 D_A:0.0821 D_B:0.1313
+Iter:800	 Generator Loss:25.7531 Discrimator Loss:0.1222 	GA2B:0.8080 GB2A:0.8013 G_id:1.6229 G_cyc:1.6029 D_A:0.1208 D_B:0.1235
+Epoch: 4 Generator Loss: 26.0567 Discriminator Loss: 0.15167424082756042, Time: 72.38
+
+
+Iter:850	 Generator Loss:27.3958 Discrimator Loss:0.0645 	GA2B:0.8316 GB2A:1.1584 G_id:1.7119 G_cyc:1.6846 D_A:0.0167 D_B:0.1124
+Iter:900	 Generator Loss:27.9699 Discrimator Loss:0.0616 	GA2B:0.6470 GB2A:0.9248 G_id:1.8572 G_cyc:1.7112 D_A:0.0348 D_B:0.0884
+Iter:950	 Generator Loss:26.0247 Discrimator Loss:0.0312 	GA2B:0.9765 GB2A:1.0265 G_id:1.6285 G_cyc:1.5879 D_A:0.0285 D_B:0.0339
+Epoch: 5 Generator Loss: 25.7610 Discriminator Loss: 0.04593663290143013, Time: 72.39
+
+
+Saving model Checkpoint  ......
+Iter:0	 Generator Loss:26.0519 Discrimator Loss:0.5220 	GA2B:1.0498 GB2A:0.9801 G_id:1.5968 G_cyc:1.6038 D_A:0.4956 D_B:0.5483
+Iter:50	 Generator Loss:26.5200 Discrimator Loss:0.1436 	GA2B:0.9643 GB2A:0.8659 G_id:1.6503 G_cyc:1.6439 D_A:0.1292 D_B:0.1580
+Iter:100	 Generator Loss:29.6495 Discrimator Loss:0.2094 	GA2B:0.9015 GB2A:2.4476 G_id:1.8672 G_cyc:1.6964 D_A:0.3211 D_B:0.0977
+Iter:150	 Generator Loss:27.7888 Discrimator Loss:0.0866 	GA2B:1.0676 GB2A:1.0579 G_id:1.7385 G_cyc:1.6971 D_A:0.0848 D_B:0.0885
+Epoch: 0 Generator Loss: 27.1895 Discriminator Loss: 0.12747430801391602, Time: 73.38
+
+
+Iter:200	 Generator Loss:23.8664 Discrimator Loss:0.1036 	GA2B:0.7573 GB2A:0.7934 G_id:1.6210 G_cyc:1.4211 D_A:0.0828 D_B:0.1245
+Iter:250	 Generator Loss:27.2751 Discrimator Loss:0.1689 	GA2B:1.4372 GB2A:1.0099 G_id:1.7394 G_cyc:1.6131 D_A:0.0727 D_B:0.2650
+Iter:300	 Generator Loss:25.7022 Discrimator Loss:0.1714 	GA2B:0.3430 GB2A:0.7976 G_id:1.6721 G_cyc:1.6201 D_A:0.1109 D_B:0.2319
+Epoch: 1 Generator Loss: 29.4344 Discriminator Loss: 0.14603814482688904, Time: 72.34
+
+
+Iter:350	 Generator Loss:29.3060 Discrimator Loss:0.0811 	GA2B:0.7579 GB2A:0.8421 G_id:1.8589 G_cyc:1.8412 D_A:0.0915 D_B:0.0708
+Iter:400	 Generator Loss:27.0716 Discrimator Loss:0.0902 	GA2B:2.4855 GB2A:0.9860 G_id:1.5772 G_cyc:1.5714 D_A:0.0398 D_B:0.1406
+Iter:450	 Generator Loss:23.6310 Discrimator Loss:0.0734 	GA2B:1.0801 GB2A:1.0746 G_id:1.4438 G_cyc:1.4257 D_A:0.0611 D_B:0.0858
+Epoch: 2 Generator Loss: 26.2887 Discriminator Loss: 0.032508403062820435, Time: 72.34
+
+
+Iter:500	 Generator Loss:27.0965 Discrimator Loss:0.0476 	GA2B:0.7213 GB2A:1.1032 G_id:1.7009 G_cyc:1.6768 D_A:0.0376 D_B:0.0576
+Iter:550	 Generator Loss:25.2712 Discrimator Loss:0.1385 	GA2B:0.4550 GB2A:0.3996 G_id:1.6204 G_cyc:1.6315 D_A:0.1414 D_B:0.1357
+Iter:600	 Generator Loss:28.3663 Discrimator Loss:0.0747 	GA2B:1.2713 GB2A:0.7359 G_id:1.7478 G_cyc:1.7620 D_A:0.1206 D_B:0.0289
+Epoch: 3 Generator Loss: 26.0624 Discriminator Loss: 0.07660413533449173, Time: 72.36
+
+
+Saving model Checkpoint  ......
+Iter:0	 Generator Loss:29.4313 Discrimator Loss:0.5211 	GA2B:1.0465 GB2A:1.0060 G_id:1.8275 G_cyc:1.8242 D_A:0.5189 D_B:0.5232
+Iter:50	 Generator Loss:28.6031 Discrimator Loss:0.1078 	GA2B:1.0338 GB2A:0.9241 G_id:1.7900 G_cyc:1.7695 D_A:0.1043 D_B:0.1114
+Iter:100	 Generator Loss:25.9660 Discrimator Loss:0.0962 	GA2B:1.1160 GB2A:0.9594 G_id:1.6496 G_cyc:1.5643 D_A:0.1049 D_B:0.0875
+Iter:150	 Generator Loss:27.9079 Discrimator Loss:0.0947 	GA2B:0.7050 GB2A:0.6276 G_id:1.8513 G_cyc:1.7319 D_A:0.1028 D_B:0.0866
+Epoch: 0 Generator Loss: 26.2554 Discriminator Loss: 0.10493415594100952, Time: 73.30
+
+
+Iter:200	 Generator Loss:27.3234 Discrimator Loss:0.0859 	GA2B:0.5125 GB2A:0.9670 G_id:1.8008 G_cyc:1.6840 D_A:0.0620 D_B:0.1097
+Iter:250	 Generator Loss:28.8047 Discrimator Loss:0.0694 	GA2B:1.0764 GB2A:1.0505 G_id:1.8039 G_cyc:1.7658 D_A:0.1037 D_B:0.0351
+Iter:300	 Generator Loss:28.8772 Discrimator Loss:0.0667 	GA2B:1.9371 GB2A:1.0213 G_id:1.8743 G_cyc:1.6548 D_A:0.0779 D_B:0.0554
+Epoch: 1 Generator Loss: 26.6535 Discriminator Loss: 0.08407040685415268, Time: 72.28
+
+
+Iter:350	 Generator Loss:27.2523 Discrimator Loss:0.0576 	GA2B:0.6201 GB2A:1.2561 G_id:1.6930 G_cyc:1.6911 D_A:0.0248 D_B:0.0904
+Iter:400	 Generator Loss:26.9352 Discrimator Loss:0.0425 	GA2B:1.2388 GB2A:0.8171 G_id:1.6619 G_cyc:1.6570 D_A:0.0246 D_B:0.0604
+Iter:450	 Generator Loss:26.2843 Discrimator Loss:0.0347 	GA2B:1.3178 GB2A:0.8658 G_id:1.6315 G_cyc:1.5943 D_A:0.0243 D_B:0.0451
+Epoch: 2 Generator Loss: 25.9274 Discriminator Loss: 0.08753146231174469, Time: 72.33
+
+
+Iter:500	 Generator Loss:27.0289 Discrimator Loss:0.0422 	GA2B:0.9467 GB2A:1.1913 G_id:1.6760 G_cyc:1.6511 D_A:0.0360 D_B:0.0484
+Iter:550	 Generator Loss:28.0739 Discrimator Loss:0.0168 	GA2B:1.1105 GB2A:0.9910 G_id:1.7431 G_cyc:1.7257 D_A:0.0129 D_B:0.0206
+Iter:600	 Generator Loss:26.7600 Discrimator Loss:0.1297 	GA2B:0.6964 GB2A:0.8495 G_id:1.6923 G_cyc:1.6753 D_A:0.1179 D_B:0.1415
+Epoch: 3 Generator Loss: 25.0189 Discriminator Loss: 0.043346863240003586, Time: 72.40
+
+
+Saving model Checkpoint  ......
+Iter:0	 Generator Loss:25.5045 Discrimator Loss:0.5443 	GA2B:1.0536 GB2A:1.0589 G_id:1.5577 G_cyc:1.5604 D_A:0.5492 D_B:0.5394
+Iter:50	 Generator Loss:26.9201 Discrimator Loss:0.1387 	GA2B:0.8824 GB2A:1.0794 G_id:1.6649 G_cyc:1.6634 D_A:0.1430 D_B:0.1345
+Iter:100	 Generator Loss:30.6128 Discrimator Loss:0.0692 	GA2B:1.0118 GB2A:1.4488 G_id:1.9280 G_cyc:1.8512 D_A:0.0585 D_B:0.0799
+Iter:150	 Generator Loss:26.8712 Discrimator Loss:0.1077 	GA2B:0.9890 GB2A:1.1208 G_id:1.7481 G_cyc:1.6021 D_A:0.0980 D_B:0.1174
+Epoch: 0 Generator Loss: 28.8263 Discriminator Loss: 0.09928963333368301, Time: 73.24
+
+
+Iter:200	 Generator Loss:27.4992 Discrimator Loss:0.0839 	GA2B:1.0768 GB2A:1.4862 G_id:1.6881 G_cyc:1.6496 D_A:0.0906 D_B:0.0772
+Iter:250	 Generator Loss:26.7340 Discrimator Loss:0.0904 	GA2B:0.8483 GB2A:1.0085 G_id:1.6991 G_cyc:1.6382 D_A:0.1040 D_B:0.0768
+Iter:300	 Generator Loss:26.3349 Discrimator Loss:0.1169 	GA2B:0.7019 GB2A:1.0107 G_id:1.6521 G_cyc:1.6362 D_A:0.1313 D_B:0.1026
+Epoch: 1 Generator Loss: 25.5564 Discriminator Loss: 0.1223517581820488, Time: 72.20
+
+
+Iter:350	 Generator Loss:26.2624 Discrimator Loss:0.0781 	GA2B:1.0016 GB2A:0.9564 G_id:1.6856 G_cyc:1.5877 D_A:0.1265 D_B:0.0298
+Iter:400	 Generator Loss:23.7199 Discrimator Loss:0.1074 	GA2B:0.9930 GB2A:0.6113 G_id:1.4800 G_cyc:1.4716 D_A:0.2029 D_B:0.0119
+Iter:450	 Generator Loss:29.4661 Discrimator Loss:0.0760 	GA2B:1.1362 GB2A:0.5596 G_id:2.0145 G_cyc:1.7698 D_A:0.1388 D_B:0.0132
+Epoch: 2 Generator Loss: 24.7736 Discriminator Loss: 0.1168394684791565, Time: 72.14
+
+
+Saving model Checkpoint  ......
+Iter:0	 Generator Loss:25.3694 Discrimator Loss:0.5572 	GA2B:1.0822 GB2A:1.0496 G_id:1.5423 G_cyc:1.5526 D_A:0.5622 D_B:0.5523
+Iter:50	 Generator Loss:29.2450 Discrimator Loss:0.1114 	GA2B:1.1391 GB2A:1.1576 G_id:1.8131 G_cyc:1.7883 D_A:0.0980 D_B:0.1248
+Iter:100	 Generator Loss:27.8208 Discrimator Loss:0.0948 	GA2B:0.9607 GB2A:0.8712 G_id:1.7960 G_cyc:1.7009 D_A:0.1034 D_B:0.0862
+Iter:150	 Generator Loss:28.6884 Discrimator Loss:0.0496 	GA2B:0.9797 GB2A:0.8618 G_id:1.8135 G_cyc:1.7779 D_A:0.0449 D_B:0.0542
+Epoch: 0 Generator Loss: 27.3565 Discriminator Loss: 0.06655103713274002, Time: 73.38
+
+
+Iter:200	 Generator Loss:29.3216 Discrimator Loss:0.1299 	GA2B:0.9897 GB2A:0.9854 G_id:1.9328 G_cyc:1.7682 D_A:0.0346 D_B:0.2252
+Iter:250	 Generator Loss:24.8927 Discrimator Loss:0.0773 	GA2B:0.7028 GB2A:0.9587 G_id:1.6695 G_cyc:1.4884 D_A:0.0523 D_B:0.1023
+Iter:300	 Generator Loss:26.3977 Discrimator Loss:0.1220 	GA2B:0.6664 GB2A:0.5254 G_id:1.7246 G_cyc:1.6583 D_A:0.1465 D_B:0.0976
+Epoch: 1 Generator Loss: 26.2502 Discriminator Loss: 0.1311105638742447, Time: 72.20
+
+
+Iter:350	 Generator Loss:28.3419 Discrimator Loss:0.0937 	GA2B:0.9093 GB2A:0.7176 G_id:1.8818 G_cyc:1.7306 D_A:0.0920 D_B:0.0953
+Iter:400	 Generator Loss:26.9602 Discrimator Loss:0.1158 	GA2B:1.3997 GB2A:0.8103 G_id:1.6632 G_cyc:1.6434 D_A:0.1087 D_B:0.1228
+Iter:450	 Generator Loss:26.2832 Discrimator Loss:0.1021 	GA2B:0.8024 GB2A:1.0299 G_id:1.6515 G_cyc:1.6193 D_A:0.1242 D_B:0.0800
+Epoch: 2 Generator Loss: 24.5559 Discriminator Loss: 0.08586224913597107, Time: 72.44
+
+
+Saving model Checkpoint  ......
+Iter:0	 Generator Loss:26.9392 Discrimator Loss:0.5482 	GA2B:1.0487 GB2A:1.0250 G_id:1.6585 G_cyc:1.6573 D_A:0.5451 D_B:0.5513
+Iter:50	 Generator Loss:27.3656 Discrimator Loss:0.1030 	GA2B:0.7622 GB2A:1.0890 G_id:1.7111 G_cyc:1.6959 D_A:0.0952 D_B:0.1109
+Iter:100	 Generator Loss:30.1058 Discrimator Loss:0.0721 	GA2B:1.4977 GB2A:0.8824 G_id:1.8889 G_cyc:1.8281 D_A:0.0925 D_B:0.0517
+Iter:150	 Generator Loss:29.4947 Discrimator Loss:0.0915 	GA2B:0.8995 GB2A:1.2523 G_id:1.9171 G_cyc:1.7758 D_A:0.1381 D_B:0.0449
+Epoch: 0 Generator Loss: 29.2093 Discriminator Loss: 0.0813516229391098, Time: 73.35
+
+
+Iter:200	 Generator Loss:30.1509 Discrimator Loss:0.1221 	GA2B:0.7743 GB2A:1.3315 G_id:2.0176 G_cyc:1.7957 D_A:0.1596 D_B:0.0847
+Iter:250	 Generator Loss:29.4129 Discrimator Loss:0.0676 	GA2B:1.7977 GB2A:1.0261 G_id:1.9916 G_cyc:1.6631 D_A:0.0721 D_B:0.0630
+Iter:300	 Generator Loss:27.3870 Discrimator Loss:0.1359 	GA2B:0.6691 GB2A:0.4929 G_id:1.9175 G_cyc:1.6637 D_A:0.1827 D_B:0.0892
+Epoch: 1 Generator Loss: 27.9090 Discriminator Loss: 0.11201782524585724, Time: 72.23
+
+
+Iter:350	 Generator Loss:28.6983 Discrimator Loss:0.0878 	GA2B:1.1403 GB2A:0.5760 G_id:1.7953 G_cyc:1.8006 D_A:0.1076 D_B:0.0680
+Iter:400	 Generator Loss:26.8046 Discrimator Loss:0.0876 	GA2B:1.2953 GB2A:0.6733 G_id:1.6624 G_cyc:1.6524 D_A:0.1501 D_B:0.0251
+Iter:450	 Generator Loss:24.5866 Discrimator Loss:0.0959 	GA2B:1.0590 GB2A:0.4400 G_id:1.5543 G_cyc:1.5316 D_A:0.1779 D_B:0.0140
+Epoch: 2 Generator Loss: 28.1103 Discriminator Loss: 0.06370013952255249, Time: 72.28
+
+
+Saving model Checkpoint  ......
+Iter:0	 Generator Loss:25.1574 Discrimator Loss:0.5541 	GA2B:1.0753 GB2A:1.0399 G_id:1.5310 G_cyc:1.5387 D_A:0.5293 D_B:0.5788
+Iter:50	 Generator Loss:25.3060 Discrimator Loss:0.1387 	GA2B:0.8263 GB2A:0.8730 G_id:1.5836 G_cyc:1.5689 D_A:0.1498 D_B:0.1275
+Iter:100	 Generator Loss:28.4635 Discrimator Loss:0.1430 	GA2B:1.4041 GB2A:1.6600 G_id:1.7541 G_cyc:1.6629 D_A:0.1424 D_B:0.1435
+Iter:150	 Generator Loss:27.6604 Discrimator Loss:0.1005 	GA2B:0.8497 GB2A:0.9826 G_id:1.9173 G_cyc:1.6242 D_A:0.0909 D_B:0.1100
+Epoch: 0 Generator Loss: 26.4645 Discriminator Loss: 0.10836407542228699, Time: 73.32
+
+
+Iter:200	 Generator Loss:28.4695 Discrimator Loss:0.0933 	GA2B:0.7681 GB2A:0.9855 G_id:1.9195 G_cyc:1.7118 D_A:0.0470 D_B:0.1396
+Iter:250	 Generator Loss:30.8327 Discrimator Loss:0.0842 	GA2B:0.8686 GB2A:2.2410 G_id:2.0160 G_cyc:1.7643 D_A:0.0862 D_B:0.0822
+Iter:300	 Generator Loss:25.6057 Discrimator Loss:0.1224 	GA2B:0.7762 GB2A:0.6877 G_id:1.6852 G_cyc:1.5716 D_A:0.1248 D_B:0.1201
+Epoch: 1 Generator Loss: 27.1120 Discriminator Loss: 0.06495308876037598, Time: 72.30
+
+
+Iter:350	 Generator Loss:26.5932 Discrimator Loss:0.0664 	GA2B:0.9182 GB2A:1.0118 G_id:1.6652 G_cyc:1.6337 D_A:0.0390 D_B:0.0937
+Iter:400	 Generator Loss:25.8127 Discrimator Loss:0.1167 	GA2B:0.4966 GB2A:1.3059 G_id:1.5959 G_cyc:1.6031 D_A:0.0904 D_B:0.1430
+Iter:450	 Generator Loss:29.4440 Discrimator Loss:0.0581 	GA2B:0.6863 GB2A:1.0577 G_id:1.8570 G_cyc:1.8415 D_A:0.0423 D_B:0.0740
+Epoch: 2 Generator Loss: 27.6624 Discriminator Loss: 0.08255176246166229, Time: 72.28
+
+
+Saving model Checkpoint  ......
+Iter:0	 Generator Loss:26.9459 Discrimator Loss:0.5458 	GA2B:1.0290 GB2A:1.0838 G_id:1.6555 G_cyc:1.6556 D_A:0.5582 D_B:0.5335
+Iter:50	 Generator Loss:28.5412 Discrimator Loss:0.1210 	GA2B:0.8135 GB2A:0.8415 G_id:1.7850 G_cyc:1.7961 D_A:0.1238 D_B:0.1181
+Iter:100	 Generator Loss:27.6337 Discrimator Loss:0.0655 	GA2B:1.1919 GB2A:0.9492 G_id:1.7383 G_cyc:1.6801 D_A:0.0872 D_B:0.0437
+Iter:150	 Generator Loss:29.2576 Discrimator Loss:0.1092 	GA2B:1.1194 GB2A:1.3446 G_id:1.9273 G_cyc:1.7157 D_A:0.0991 D_B:0.1193
+Epoch: 0 Generator Loss: 25.7481 Discriminator Loss: 0.1697353720664978, Time: 73.42
+
+
+Iter:200	 Generator Loss:27.1896 Discrimator Loss:0.0788 	GA2B:1.6859 GB2A:0.8011 G_id:1.7069 G_cyc:1.6168 D_A:0.0961 D_B:0.0616
+Iter:250	 Generator Loss:27.7589 Discrimator Loss:0.0686 	GA2B:1.0532 GB2A:1.2168 G_id:1.7337 G_cyc:1.6820 D_A:0.0789 D_B:0.0583
+Iter:300	 Generator Loss:27.3185 Discrimator Loss:0.0488 	GA2B:1.2304 GB2A:1.2086 G_id:1.6892 G_cyc:1.6434 D_A:0.0560 D_B:0.0416
+Epoch: 1 Generator Loss: 27.8274 Discriminator Loss: 0.10040120035409927, Time: 72.40
+
+
+Iter:350	 Generator Loss:28.5535 Discrimator Loss:0.1419 	GA2B:1.3660 GB2A:0.7317 G_id:1.8995 G_cyc:1.6958 D_A:0.1663 D_B:0.1175
+Iter:400	 Generator Loss:25.6293 Discrimator Loss:0.0879 	GA2B:0.6353 GB2A:0.8499 G_id:1.5799 G_cyc:1.6245 D_A:0.0460 D_B:0.1298
+Iter:450	 Generator Loss:26.0680 Discrimator Loss:0.0376 	GA2B:0.6733 GB2A:1.0180 G_id:1.7791 G_cyc:1.5481 D_A:0.0318 D_B:0.0435
+Epoch: 2 Generator Loss: 24.8377 Discriminator Loss: 0.13165009021759033, Time: 72.23
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 73.81127595901489
+Iter:0	 Generator Loss:25.7366 Discrimator Loss:0.5090 	GA2B:1.0176 GB2A:0.9780 G_id:1.5784 G_cyc:1.5849 D_A:0.4931 D_B:0.5249
+Iter:50	 Generator Loss:28.4610 Discrimator Loss:0.0866 	GA2B:0.9389 GB2A:0.9000 G_id:1.7629 G_cyc:1.7808 D_A:0.0772 D_B:0.0961
+Iter:100	 Generator Loss:28.5266 Discrimator Loss:0.0937 	GA2B:1.0059 GB2A:0.7732 G_id:1.8311 G_cyc:1.7592 D_A:0.0767 D_B:0.1107
+Iter:150	 Generator Loss:28.1378 Discrimator Loss:0.1038 	GA2B:2.7443 GB2A:0.8074 G_id:1.6972 G_cyc:1.6100 D_A:0.0876 D_B:0.1199
+Epoch: 0 Generator Loss: 29.3407 Discriminator Loss: 0.11027847975492477, Time: 73.33
+
+
+Iter:200	 Generator Loss:29.1581 Discrimator Loss:0.0926 	GA2B:1.0051 GB2A:0.9295 G_id:1.9544 G_cyc:1.7451 D_A:0.0554 D_B:0.1298
+Iter:250	 Generator Loss:28.0303 Discrimator Loss:0.0889 	GA2B:0.7590 GB2A:1.5349 G_id:1.7328 G_cyc:1.7072 D_A:0.0742 D_B:0.1035
+Iter:300	 Generator Loss:26.4427 Discrimator Loss:0.0576 	GA2B:0.9339 GB2A:0.7682 G_id:1.7351 G_cyc:1.6065 D_A:0.0679 D_B:0.0473
+Epoch: 1 Generator Loss: 25.1733 Discriminator Loss: 0.06018463522195816, Time: 72.28
+
+
+Iter:350	 Generator Loss:29.0587 Discrimator Loss:0.1054 	GA2B:1.2666 GB2A:1.0614 G_id:1.8861 G_cyc:1.7300 D_A:0.1954 D_B:0.0153
+Iter:400	 Generator Loss:26.9484 Discrimator Loss:0.0917 	GA2B:1.1357 GB2A:1.0531 G_id:1.6920 G_cyc:1.6300 D_A:0.1703 D_B:0.0131
+Iter:450	 Generator Loss:27.7245 Discrimator Loss:0.0271 	GA2B:1.2419 GB2A:0.9606 G_id:1.6974 G_cyc:1.7035 D_A:0.0314 D_B:0.0229
+Epoch: 2 Generator Loss: 25.1786 Discriminator Loss: 0.08384312689304352, Time: 72.33
+
+
+Saving model Checkpoint  ......
+Time taken for validation Set: 69.30429601669312
+Iter:0	 Generator Loss:26.0218 Discrimator Loss:0.5398 	GA2B:1.0349 GB2A:1.0129 G_id:1.5959 G_cyc:1.5994 D_A:0.5435 D_B:0.5361
+Iter:50	 Generator Loss:25.5512 Discrimator Loss:0.1298 	GA2B:0.9075 GB2A:1.0721 G_id:1.5654 G_cyc:1.5744 D_A:0.1079 D_B:0.1516
+Iter:100	 Generator Loss:25.7688 Discrimator Loss:0.1402 	GA2B:0.5332 GB2A:0.9870 G_id:1.6440 G_cyc:1.6029 D_A:0.1026 D_B:0.1778
+Iter:150	 Generator Loss:27.5033 Discrimator Loss:0.0930 	GA2B:2.5469 GB2A:0.6995 G_id:1.6416 G_cyc:1.6049 D_A:0.0801 D_B:0.1059
+Epoch: 0 Generator Loss: 29.0324 Discriminator Loss: 0.10419923812150955, Time: 73.48
+
+
+Iter:200	 Generator Loss:26.9398 Discrimator Loss:0.0960 	GA2B:1.1263 GB2A:0.9551 G_id:1.8185 G_cyc:1.5766 D_A:0.0885 D_B:0.1035
+Iter:250	 Generator Loss:26.0074 Discrimator Loss:0.1104 	GA2B:0.6302 GB2A:0.9444 G_id:1.7844 G_cyc:1.5511 D_A:0.0755 D_B:0.1453
+Iter:300	 Generator Loss:27.4137 Discrimator Loss:0.0744 	GA2B:1.1661 GB2A:0.8048 G_id:1.8496 G_cyc:1.6195 D_A:0.0948 D_B:0.0541
+Epoch: 1 Generator Loss: 25.1918 Discriminator Loss: 0.11041411757469177, Time: 72.53
+
+
+Iter:350	 Generator Loss:27.8937 Discrimator Loss:0.0960 	GA2B:0.7031 GB2A:1.0893 G_id:1.8386 G_cyc:1.6908 D_A:0.0748 D_B:0.1173
+Iter:400	 Generator Loss:27.3198 Discrimator Loss:0.0684 	GA2B:0.8746 GB2A:0.7661 G_id:1.7090 G_cyc:1.7134 D_A:0.0609 D_B:0.0758
+Iter:450	 Generator Loss:26.5172 Discrimator Loss:0.0998 	GA2B:0.9794 GB2A:0.5042 G_id:1.6849 G_cyc:1.6609 D_A:0.1708 D_B:0.0288
+Epoch: 2 Generator Loss: 26.6382 Discriminator Loss: 0.051476649940013885, Time: 72.46
+
+
+Iter:500	 Generator Loss:25.7642 Discrimator Loss:0.0230 	GA2B:1.0056 GB2A:0.9884 G_id:1.5959 G_cyc:1.5791 D_A:0.0280 D_B:0.0181
+Iter:550	 Generator Loss:28.2165 Discrimator Loss:0.0443 	GA2B:1.5462 GB2A:1.2003 G_id:1.7024 G_cyc:1.6958 D_A:0.0291 D_B:0.0595
+Iter:600	 Generator Loss:24.9806 Discrimator Loss:0.0683 	GA2B:0.7776 GB2A:1.0282 G_id:1.5558 G_cyc:1.5396 D_A:0.0084 D_B:0.1282
+Epoch: 3 Generator Loss: 24.7895 Discriminator Loss: 0.03870357573032379, Time: 126.44
+
+
+Iter:650	 Generator Loss:26.1886 Discrimator Loss:0.0295 	GA2B:0.8411 GB2A:1.0250 G_id:1.6169 G_cyc:1.6238 D_A:0.0060 D_B:0.0529
+Iter:700	 Generator Loss:28.1329 Discrimator Loss:0.0355 	GA2B:0.6216 GB2A:1.0914 G_id:1.8026 G_cyc:1.7407 D_A:0.0075 D_B:0.0636
+Iter:750	 Generator Loss:28.9898 Discrimator Loss:0.0462 	GA2B:0.8544 GB2A:1.1150 G_id:1.7932 G_cyc:1.8054 D_A:0.0091 D_B:0.0832
+Iter:800	 Generator Loss:27.5745 Discrimator Loss:0.0484 	GA2B:0.6202 GB2A:1.0496 G_id:1.7334 G_cyc:1.7237 D_A:0.0050 D_B:0.0918
+Epoch: 4 Generator Loss: 25.7806 Discriminator Loss: 0.06780964881181717, Time: 72.48
+
+
+Iter:850	 Generator Loss:26.7404 Discrimator Loss:0.1122 	GA2B:0.4584 GB2A:1.1986 G_id:1.6726 G_cyc:1.6720 D_A:0.0405 D_B:0.1839
+Iter:900	 Generator Loss:27.6440 Discrimator Loss:0.0904 	GA2B:0.8386 GB2A:1.0519 G_id:1.6929 G_cyc:1.7289 D_A:0.0447 D_B:0.1361
+Iter:950	 Generator Loss:25.9155 Discrimator Loss:0.0346 	GA2B:1.0274 GB2A:1.0184 G_id:1.5937 G_cyc:1.5901 D_A:0.0142 D_B:0.0551
+Epoch: 5 Generator Loss: 26.6813 Discriminator Loss: 0.0702129453420639, Time: 72.50
+
+
+Iter:1000	 Generator Loss:25.7842 Discrimator Loss:0.0781 	GA2B:0.7291 GB2A:0.8383 G_id:1.6111 G_cyc:1.6161 D_A:0.0379 D_B:0.1183
+Iter:1050	 Generator Loss:25.3463 Discrimator Loss:0.0414 	GA2B:1.0743 GB2A:1.1732 G_id:1.5422 G_cyc:1.5388 D_A:0.0530 D_B:0.0299
+Iter:1100	 Generator Loss:25.0389 Discrimator Loss:0.1116 	GA2B:0.7926 GB2A:0.9991 G_id:1.5501 G_cyc:1.5497 D_A:0.0130 D_B:0.2101
+Epoch: 6 Generator Loss: 28.0935 Discriminator Loss: 0.11561132967472076, Time: 72.48
+
+
+Iter:1150	 Generator Loss:25.9449 Discrimator Loss:0.0517 	GA2B:0.8107 GB2A:1.0477 G_id:1.6179 G_cyc:1.5997 D_A:0.0423 D_B:0.0611
+Iter:1200	 Generator Loss:25.1658 Discrimator Loss:0.1332 	GA2B:0.7564 GB2A:1.0080 G_id:1.5595 G_cyc:1.5604 D_A:0.0460 D_B:0.2204
+Iter:1250	 Generator Loss:24.9801 Discrimator Loss:0.0801 	GA2B:0.8443 GB2A:0.9981 G_id:1.5411 G_cyc:1.5432 D_A:0.0084 D_B:0.1517
+Epoch: 7 Generator Loss: 25.4767 Discriminator Loss: 0.05260934308171272, Time: 72.52
+
+
+Iter:1300	 Generator Loss:25.0906 Discrimator Loss:0.0270 	GA2B:0.8992 GB2A:1.0331 G_id:1.5459 G_cyc:1.5429 D_A:0.0089 D_B:0.0451
+Iter:1350	 Generator Loss:27.4004 Discrimator Loss:0.0557 	GA2B:1.0368 GB2A:1.0437 G_id:1.6821 G_cyc:1.6909 D_A:0.0038 D_B:0.1075
+Iter:1400	 Generator Loss:24.5552 Discrimator Loss:0.1331 	GA2B:1.1226 GB2A:0.9559 G_id:1.5014 G_cyc:1.4969 D_A:0.1772 D_B:0.0890
+Iter:1450	 Generator Loss:25.1930 Discrimator Loss:0.0503 	GA2B:0.9418 GB2A:0.9866 G_id:1.5559 G_cyc:1.5485 D_A:0.0157 D_B:0.0850
+Epoch: 8 Generator Loss: 24.7355 Discriminator Loss: 0.10299079120159149, Time: 72.65
+
+
+Iter:1500	 Generator Loss:27.8085 Discrimator Loss:0.0596 	GA2B:0.7811 GB2A:1.4261 G_id:1.7012 G_cyc:1.7095 D_A:0.0516 D_B:0.0677
+Iter:1550	 Generator Loss:26.0721 Discrimator Loss:0.0572 	GA2B:1.2721 GB2A:1.1424 G_id:1.6097 G_cyc:1.5609 D_A:0.0720 D_B:0.0424
+Iter:1600	 Generator Loss:26.5031 Discrimator Loss:0.0456 	GA2B:0.6722 GB2A:0.9891 G_id:1.6604 G_cyc:1.6540 D_A:0.0200 D_B:0.0713
+Epoch: 9 Generator Loss: 26.7357 Discriminator Loss: 0.07764377444982529, Time: 72.52
+
+
+Iter:1650	 Generator Loss:23.9441 Discrimator Loss:0.1063 	GA2B:0.7210 GB2A:0.7304 G_id:1.5046 G_cyc:1.4970 D_A:0.0919 D_B:0.1208
+Iter:1700	 Generator Loss:25.8755 Discrimator Loss:0.0901 	GA2B:0.9711 GB2A:0.9768 G_id:1.6304 G_cyc:1.5776 D_A:0.0902 D_B:0.0901
+Iter:1750	 Generator Loss:23.9514 Discrimator Loss:0.0828 	GA2B:0.5715 GB2A:1.0461 G_id:1.4868 G_cyc:1.4900 D_A:0.0162 D_B:0.1493
+Epoch: 10 Generator Loss: 25.5277 Discriminator Loss: 0.07762046158313751, Time: 72.61
+
+
+Iter:1800	 Generator Loss:24.1400 Discrimator Loss:0.0926 	GA2B:0.7628 GB2A:0.8650 G_id:1.5072 G_cyc:1.4976 D_A:0.0698 D_B:0.1154
+Iter:1850	 Generator Loss:26.9050 Discrimator Loss:0.0999 	GA2B:0.8412 GB2A:0.7257 G_id:1.6891 G_cyc:1.6893 D_A:0.1266 D_B:0.0732
+Iter:1900	 Generator Loss:27.5218 Discrimator Loss:0.0849 	GA2B:1.0904 GB2A:0.7948 G_id:1.7210 G_cyc:1.7032 D_A:0.0897 D_B:0.0801
+Epoch: 11 Generator Loss: 25.7314 Discriminator Loss: 0.07233252376317978, Time: 72.71
+
+
+Iter:1950	 Generator Loss:24.5809 Discrimator Loss:0.0968 	GA2B:0.4462 GB2A:0.9882 G_id:1.5408 G_cyc:1.5443 D_A:0.0225 D_B:0.1712
+Iter:2000	 Generator Loss:26.5125 Discrimator Loss:0.0209 	GA2B:1.0754 GB2A:1.0454 G_id:1.6359 G_cyc:1.6212 D_A:0.0058 D_B:0.0360
+Iter:2050	 Generator Loss:27.6222 Discrimator Loss:0.0672 	GA2B:0.8698 GB2A:0.7140 G_id:1.7373 G_cyc:1.7352 D_A:0.0376 D_B:0.0969
+Iter:2100	 Generator Loss:27.8674 Discrimator Loss:0.0793 	GA2B:0.9365 GB2A:1.1565 G_id:1.7198 G_cyc:1.7175 D_A:0.0242 D_B:0.1344
+Epoch: 12 Generator Loss: 25.3447 Discriminator Loss: 0.09785622358322144, Time: 72.71
+
+
+Iter:2150	 Generator Loss:25.9057 Discrimator Loss:0.0669 	GA2B:0.8334 GB2A:1.1427 G_id:1.5939 G_cyc:1.5960 D_A:0.0219 D_B:0.1119
+Iter:2200	 Generator Loss:24.1231 Discrimator Loss:0.0878 	GA2B:0.6679 GB2A:1.1473 G_id:1.4955 G_cyc:1.4831 D_A:0.0219 D_B:0.1537
+Iter:2250	 Generator Loss:26.5236 Discrimator Loss:0.0669 	GA2B:1.0434 GB2A:0.9680 G_id:1.6387 G_cyc:1.6319 D_A:0.0945 D_B:0.0393
+Epoch: 13 Generator Loss: 27.1917 Discriminator Loss: 0.04915663227438927, Time: 72.49
+
+
+Iter:2300	 Generator Loss:28.1573 Discrimator Loss:0.0712 	GA2B:0.6533 GB2A:1.0163 G_id:1.7885 G_cyc:1.7545 D_A:0.0168 D_B:0.1255
+Iter:2350	 Generator Loss:27.4178 Discrimator Loss:0.0437 	GA2B:1.0294 GB2A:0.9104 G_id:1.7008 G_cyc:1.6974 D_A:0.0580 D_B:0.0293
+Iter:2400	 Generator Loss:25.4668 Discrimator Loss:0.1461 	GA2B:0.7301 GB2A:0.9107 G_id:1.5890 G_cyc:1.5881 D_A:0.1328 D_B:0.1594
+Epoch: 14 Generator Loss: 23.5569 Discriminator Loss: 0.09405997395515442, Time: 72.49
+
+
+Iter:2450	 Generator Loss:27.8129 Discrimator Loss:0.0870 	GA2B:0.9531 GB2A:1.0532 G_id:1.7324 G_cyc:1.7145 D_A:0.0488 D_B:0.1252
