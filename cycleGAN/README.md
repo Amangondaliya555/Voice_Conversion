@@ -42,7 +42,7 @@ $ python download.py --download_dir ./download --data_dir ./data --datasets vcc2
 ### Preprocessing for Training
 Preprocess voice data and stores it in numpy format in ../cache folder
 ```bash
-$ python prepocess_training.py --help
+$ python preprocess_training.py --help
 Usage: preprocess_training.py [-h] [--train_A_dir TRAIN_A_DIR]
                               [--train_B_dir TRAIN_B_DIR]
                               [--cache_folder CACHE_FOLDER]
@@ -60,7 +60,7 @@ optional arguments:
 ```
 For example, to train CycleGAN model for voice Conversion between ``SF1`` and ``TM1``:
 ```bash
-$ python prepocess_training.py --train_A_dir ../data/vcc2016_training/SF1
+$ python preprocess_training.py --train_A_dir ../data/vcc2016_training/SF1
                                 --train_B_dir ../data/vcc2016_training/TM1
                                 --cache_folder ../cache/
 ```                                
