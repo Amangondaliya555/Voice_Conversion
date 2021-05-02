@@ -34,8 +34,5 @@ You can find the colab link for the preprocessing part : [Here](https://colab.re
 
 
 You can find the colab link for the training part : [Here](https://colab.research.google.com/drive/1cOHdN7YKS4oeHpAOoZi9LiHR_7_LL1KJ?authuser=1#scrollTo=ibweOJNN2lmH&uniqifier=1)
-
-```bash
-$python train.py 
-```                                                
+                                          
 
