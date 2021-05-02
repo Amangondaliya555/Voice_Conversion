@@ -8,6 +8,15 @@ Voice Conversion using Modified StarGAN (PyTorch Implementation). Architecture o
   <img src="model2.png" width="20%">
 </p>
 
+<div class="row">
+  <div class="column">
+    <img src="model1.png" alt="Generator" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="model2.png" alt="Discriminator" style="width:100%">
+  </div>
+</div>
+
 ## Dependencies
 
 * Python
