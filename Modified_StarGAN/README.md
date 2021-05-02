@@ -2,28 +2,13 @@
 Voice Conversion using Modified StarGAN (PyTorch Implementation). Architecture of the Modifeid StarGAN is as follows:
 
 
-<div class="row">
-  <div class="column">
-    <img src="model1.png" alt="Generator" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="model2.png" alt="Discriminator" style="width:100%">
-  </div>
+<div>
+
+<div style=”width:50%”><img src=”model1.png” /></div>
+
+<div style=”width:50%”><img src=”model2.png” /></div>
+
 </div>
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
 
 ## Dependencies
 
