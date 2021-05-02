@@ -1,11 +1,11 @@
 # Voice-Conversion-GAN
 Voice Conversion using Modified StarGAN (PyTorch Implementation). Architecture of the Modifeid StarGAN is as follows:
 <p align="left">
-  <img src="model1.png" width="100%">
+  <img src="model1.png" width="20%">
 </p>
 
 <p align="right">
-  <img src="model2.png" width="100%">
+  <img src="model2.png" width="20%">
 </p>
 
 ## Dependencies
