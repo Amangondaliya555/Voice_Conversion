@@ -4,7 +4,7 @@ Voice Conversion using Modified StarGAN (PyTorch Implementation). Architecture o
 
 <p float="left">
   <img src="model1.png" width="200" />
-  <img src="model2.png" width="200" /> 
+  <img src="model2.png" width="180" /> 
 </p>
 
 ## Dependencies
